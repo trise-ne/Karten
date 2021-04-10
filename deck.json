@@ -3585,7 +3585,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Penicillin G",
-                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Herz: Infektiöse Endokarditis (bei sensibel getestetem Erreger in\nempfohlener Dosierung)</div>\n<div>ZNS: Meningitis (bei empfindlich getestetem Erreger)</div>\n<div>Diverse schwere systemische Infektionen: Syphilis, Diphtherie, Tetanus,\nMilzbrand, Leptospirose, Aktinomykose</div>\n<div>Knochen: Osteomyelitis</div>\n<div>Wundinfektionen: Gasbrand, Erysipel</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrthekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: nicht p.o. aufgrund der Magenpassage</div>\n<div>Applikationsform: i.v. oder i.m.</div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetraton von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Herz: Infektiöse Endokarditis (bei sensibel getestetem Erreger in\nempfohlener Dosierung)</div>\n<div>ZNS: Meningitis (bei empfindlich getestetem Erreger)</div>\n<div>Diverse schwere systemische Infektionen: Syphilis, Diphtherie, Tetanus,\nMilzbrand, Leptospirose, Aktinomykose</div>\n<div>Knochen: Osteomyelitis</div>\n<div>Wundinfektionen: Gasbrand, Erysipel</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrthekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><font color=\"#fc0107\">Säurelabilität: nicht p.o. aufgrund der Magenpassage</font></div>\n<div>Applikationsform: i.v. oder i.m.</div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetraton von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "t#MCznK!#f",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -3598,7 +3598,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Penicillin V",
-                                        "<b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b><br><div><br></div><div><b>Wirkung: bakterizid</b></div><div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den beta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<font color=\"#0000ff\">grampositiven&nbsp;</font>Zellwänden von&nbsp;<u>wachsenden Bakterien</u></div><div><br></div><div><b>Wirkspektrum:</b></div><div>hämolysierende Streptokokken</div><div>Pneumokokken</div><div>Staphylokokken</div><div>Pepto- und Peptostrepkokken</div><div>Meningokokken</div><div>Gonokokken</div><div>Corynebakterium (Diphtherie)</div><div>Bacillus anthracis</div><div>Clostridien</div><div><div>Spirochäten (Treponema pallidum)</div><div>Borrelien</div><div>Leptospiren</div></div><div>Actinomyces-Arten</div><div>Fusobacterium-Arten</div><div>Bacteroides-Arten</div><div><b><br></b></div><div><b>Indikationen:</b></div><div><div>Insb. Streptokokkeninfektionen im HNO-Bereich und in den\noberen Atemwegen: Scharlach, Tonsillopharyngitis, Sinusitis, Otitis media</div></div><div><br></div><div><b>UAW:</b></div><div><div><div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der Darmflora)</div><div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div><div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div><div>Thrombozytenfunktionshemmung</div><div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<font color=\"#fc0107\">(dosisunabhängig)</font>: Urtikaria, multiple petechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div><div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div><div>Neurotoxizität (v.a. bei intrthekaler Applikation)</div><div><br></div><div></div></div><div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: nicht p.o. aufgrund der Magenpassage</div><div>Applikationsform: i.v. oder i.m.</div><div>Verteilungsraum: Extrazellularraum (schlechte Penetraton von Membranen; hydrophil; Wirkort wird nicht immer gut erreicht)</div><div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div><div>Elemination: renal</div><div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Insb. Streptokokkeninfektionen im HNO-Bereich und in den oberen Atemwegen:\nScharlach, Tonsillopharyngitis, Sinusitis, Otitis media</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform:\n<font color=\"#fc0107\">p.o. (säurefest)</font></b><b><span style=\"color: red;\"></span></b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "r~r~y0lSa@",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -3621,101 +3621,132 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Phenoxymethylpenicillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Phenoxypinicilline (=Oralpenicilline)</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Insb. Streptokokkeninfektionen im HNO-Bereich und in den oberen Atemwegen:\nScharlach, Tonsillopharyngitis, Sinusitis, Otitis media</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform:\n<font color=\"#fc0107\">p.o. (säurefest)</font></b><b><span style=\"color: red;\"></span></b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "GbQtv)BYNt",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicilline"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Phenoxypropylpenicillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Phenoxypinicilline (=Oralpenicilline)</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "Propicillin",
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Insb. Streptokokkeninfektionen im HNO-Bereich und in den oberen Atemwegen:\nScharlach, Tonsillopharyngitis, Sinusitis, Otitis media</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform:\n<font color=\"#fc0107\">p.o. (säurefest)</font></b><b><span style=\"color: red;\"></span></b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "sqiB8AU^|I",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicilline"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Oxacilline",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Isoxazolylpenicilline (=Staphylokokkenpenicilline)</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "Oxacillin",
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicillinase-feste-Antibiotika</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid;\nbeta-Laktamase-fest</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Nicht gegen gramnegative\nKeime</b></div>\n<div><b>Staphylokokken </b></div>\n<div>Merke: zwar sind Isoxazolylpenicilline theoretisch auch gegen andere\nErreger wirksam, die Wirksamkeit ist im Vergleich zu klassischen Penicillinen\naber bis zu 100-fach schwächer, so dass sie nur gegen Staphylokokken eingesetzt\nwerden</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Staphylokokken-Infektion (v.a. mit Penicillinase-bildenden Stämmen)</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Hepatotoxizität</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "zw63PIn.JF",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicillinase-feste-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Dicloxacillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Isoxazolylpenicilline (=Staphylokokkenpenicilline)</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicillinase-feste-Antibiotika</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid;\nbeta-Laktamase-fest</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Nicht gegen gramnegative\nKeime</b></div>\n<div><b>Staphylokokken </b></div>\n<div>Merke: zwar sind Isoxazolylpenicilline theoretisch auch gegen andere\nErreger wirksam, die Wirksamkeit ist im Vergleich zu klassischen Penicillinen\naber bis zu 100-fach schwächer, so dass sie nur gegen Staphylokokken eingesetzt\nwerden</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Staphylokokken-Infektion (v.a. mit Penicillinase-bildenden Stämmen)</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Hepatotoxizität</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "G|VJlWe2{s",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicillinase-feste-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Flucloxacillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Isoxazolylpenicilline (=Staphylokokkenpenicilline)</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicillinase-feste-Antibiotika</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid;\nbeta-Laktamase-fest</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Nicht gegen gramnegative\nKeime</b></div>\n<div><b>Staphylokokken </b></div>\n<div>Merke: zwar sind Isoxazolylpenicilline theoretisch auch gegen andere\nErreger wirksam, die Wirksamkeit ist im Vergleich zu klassischen Penicillinen\naber bis zu 100-fach schwächer, so dass sie nur gegen Staphylokokken eingesetzt\nwerden</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Staphylokokken-Infektion (v.a. mit Penicillinase-bildenden Stämmen)</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Hepatotoxizität</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "g3[|eAdww#",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicillinase-feste-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Ampicillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Breitspektrumpenicilline -&gt; Aminopenicilline</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Aminopenicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div><b>Wirksam auch gegen\nHaemophilus influencae, Listerien und Enterokokken</b></div>\n<div>&nbsp;</div>\n<div><b>KI: </b></div>\n<div>Speziell Aminopenicilline: Arzneimittelexanthem (vor allem beim\nPfeifferschen Drüsenfieber → Gabe kontraindiziert)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Streptokokkeninfektionen im HNO-Bereich: Sinusitis, Tonsillopharyngitis,\nOtitis media</div>\n<div>Niere und Harnwege : Akute und chronische Pyelonephritis, Zystitis</div>\n<div>Magen-Darm-Trakt</div>\n<div>Meningitis</div>\n<div>Kalkulierte Therapie bei Verdacht auf eine akute bakterielle Meningitis</div>\n<div>Listeriose</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div><b>Höhere\nRate an pseudoallerg. Reaktionen (kein Eintreten bei erneuter Gabe)</b></div>\n<div><b>Induktion\nvon Penicillinasen</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform:\nnur i.v. (geringe Bioverfügbarkeit)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "H.3#aj%V1}",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Aminopenicilline",
+                                        "beta-Laktam-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Amoxycillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Breitspektrumpenicilline -&gt; Aminopenicilline</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "Amoxicillin",
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Aminopenicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div><b>Wirksam auch gegen\nHaemophilus influencae, Listerien und Enterokokken</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Pneumonie</div>\n<div>Streptokokkeninfektionen im HNO-Bereich: Sinusitis, Tonsillopharyngitis,\nOtitis media als Endokarditis-Prophylaxe </div>\n<div>Niere und Harnwege: Akute und chronische Pyelonephritis, Zystitis</div>\n<div>HP-Eradikation: Französische Tripeltherapie</div>\n<div>Unkomplizierte Listeriose</div>\n<div>Haut- und Weichteilinfektionen</div>\n<div>Borreliose Stadium I</div>\n<div>&nbsp;</div>\n<div><b>KI: </b></div>\n<div>Speziell Aminopenicilline: Arzneimittelexanthem (vor allem beim\nPfeifferschen Drüsenfieber → Gabe kontraindiziert)</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div><b>Höhere\nRate an pseudoallerg. Reaktionen (kein Eintreten bei erneuter Gabe)</b></div>\n<div><b>Induktion\nvon Penicillinasen</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform:\np.o. (hohe Bioverfügbarkeit)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "lr?y[f5jyG",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Aminopenicilline",
+                                        "beta-Laktam-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Mezlocillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Breitspektrumpenicilline -&gt; Acylaminopenicilline</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Breitspektrum-Penicilline; Acylaminopenicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid; nicht-laktamase-fest</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Grampositive Keime (insb. Streptokokken und Enterokokken)</div>\n<div>Zahlreiche gramnegative Erreger insb. Enterokokken <b>(inkl. Pseudomonas)</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "w$1${h0o+u",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Acylaminopenicilline",
+                                        "beta-Laktam-Antibiotika",
+                                        "Breitspektrum-Penicilline"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Piperacillin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Breitspektrumpenicilline -&gt; Acylaminopenicilline</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Breitspektrum-Penicilline; Acylaminopenicilline</b></div>\n<div><b>&nbsp;</b></div>\n<div><b>Wirkung: </b><b>bakterizid; nicht-laktamase-fest</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Grampositive Keime (insb. Streptokokken und Enterokokken)</div>\n<div>Zahlreiche gramnegative Erreger insb. Enterokokken <b>(inkl. Pseudomonas)</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "f7I7`>9>`F",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Acylaminopenicilline",
+                                        "beta-Laktam-Antibiotika",
+                                        "Breitspektrum-Penicilline"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Avibactam",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotikazusatz -&gt; ß-Lactamaseinhibitoren<br></b><div>reversibel</div>"
+                                        ""
                                     ],
                                     "guid": "C(_S#vD[)R",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Reversible-beta-Laktamase-Hemmer"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3725,7 +3756,9 @@
                                     ],
                                     "guid": "BT57mD5)K5",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Irreversible-beta-Laktamase-Hemmer"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3735,7 +3768,9 @@
                                     ],
                                     "guid": "PCPcKj@`(Q",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Irreversible-beta-Laktamase-Hemmer"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3745,27 +3780,34 @@
                                     ],
                                     "guid": "c5z96&{afk",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Irreversible-beta-Laktamase-Hemmer"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Vaberbactam",
+                                        "Vaborbactam",
                                         "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotikazusatz -&gt; ß-Lactamaseinhibitoren<br></b><div>irreversibel</div>"
                                     ],
                                     "guid": "J%OSYlV(Ts",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Irreversible-beta-Laktamase-Hemmer"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Cefazolin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; parenterale, Gr. 1</b><div>Strepto- + Staphylokokken</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 1; i.v.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Grampositive Keime</b></div>\n<div><b>Weniger gut gegen\ngramnegative Keime</b></div>\n<div><b>Staphylokkenfest</b></div>\n<div><b>nicht Lactamase-stabil\nvon gramneg. Keimen</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit&nbsp;</b><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit\n(NMTT-Substituierte Derivate (N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.\n(deutlich höhere Wirkung als p.o.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "o:jX-~.`me",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3781,21 +3823,27 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Cefuroxim",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; parenterale, Gr. 2</b><div>grampos, ß-Lactamasestabil</div>"
+                                        "<div>&nbsp;</div>\n<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 2; i.v.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Teils auch Lactamase-stabil</b></div>\n<div><b>Wirkung gegen grampositive Keime\ngeringer</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit</b></div>\n<div><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.\n(deutlich höhere Wirkung als p.o.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "ca@]]PQ^,V",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Cefotaxim",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; parenterale, Gr. 3a</b><div>auch gramneg, Breitspektrum</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 3a; i.v.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>noch besser gegen gramneg. Keime</b></div>\n<div><b>schlechter bei grampos. Keimen\nwirksam</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit&nbsp;</b><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.\n(deutlich höhere Wirkung als p.o.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "ie`?M+K7kF",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3811,11 +3859,14 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Cefepim",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; parenterale, Gr. 3b</b><div>auch gramneg, Pseudomonas, Anaerobier</div><div>Breitspektrum</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 4; i.v.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>noch besser gegen\ngramneg. Keime</div>\n<div>schlechter\nbei grampos. Keimen wirksam</div>\n<div>zusätzlich:\nPseudomonas-Stämme und <b>hohe\nLaktamase-Resistenz</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit&nbsp;</b><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.\n(deutlich höhere Wirkung als p.o.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "NTf~/<K?r_",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3831,11 +3882,14 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Ceftazidim",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; parenterale, Gr. 3b</b><div>auch gramneg, Pseudomonas, Anaerobier</div><div>Breitspektrum</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 3b; i.v.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>noch besser\ngegen gramneg. Keime</div>\n<div>schlechter\nbei grampos. Keimen wirksam</div>\n<div>zusätzlich: <b>Pseudomonas-Stämme</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit</b></div>\n<div><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.\n(deutlich höhere Wirkung als p.o.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "KBdX%=Cxv#",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3850,12 +3904,15 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Ceftabiprol",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; parenterale, Gr. 5</b><div>ß-Lactamase stabil, MRSA</div>"
+                                        "Ceftobiprol",
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 5; i.v.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>MRSA</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit</b></div>\n<div><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.\n(deutlich höhere Wirkung als p.o.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "kD19:{:7{P",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3871,11 +3928,14 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Cefalexin",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; orale, Gr. 1</b><div>grampos</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 1; p.o.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>grampositive Keime\n(einschl. Staphylokkoken) </b></div>\n<div><b>kaum gegen gramnegative\nKeime</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit&nbsp;</b><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: p.o.\n(deutlich geringe Wirkung als i.v.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "Jfr@Swkoaz",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3901,21 +3961,27 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Cefuroximaxetil",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; orale, Gr. 2</b><div>gramneg</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 2; p.o.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Laktamase-stabil</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit</b></div>\n<div><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: p.o.\n(deutlich geringe Wirkung als i.v.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "uwtPUjm@p;",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Cefixim",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Cephalosporine -&gt; orale, Gr. 3</b><div>gramneg</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Cephalosporine (Gruppe 3; p.o.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>besser bei gramneg.\nKeimen wirksam</b></div>\n<div><b>fast nicht wirksam bei\ngrampos. Keimen</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit&nbsp;</b><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: p.o.\n(deutlich geringe Wirkung als i.v.)</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "C+s0d1/lvD",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -3931,51 +3997,70 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Imipenem",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Carbapeneme</b><div>grampos, gramneg, Anaerobier</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Carbapeneme; Reserve-Antibiotika</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Breitspektrum-Antiobiotika (ITS)</div>\n<div>Laktamase-stabil</div>\n<div>Keine Wirkung bei MRSA</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b><span style=\"color: red;\">Imipenem nur in Kombination\nmit Cilastatin </span></b><b>(Dehydropeptidase-Hemmer,\nBürstensaum-Enzym, damit auch Wirksamkeit bei renalen Infekten gegeben und\nMinderung eines nephrotox. Metaboliten)</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.</b></div><div><div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div></div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div><b>HWZ: 1h</b> &nbsp;(Überbrückung durch hohe Dosierung\nmöglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "F.#/;aG^HG",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Carbapeneme",
+                                        "Reserve-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Meropenem",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Carbapeneme</b><div>grampos, gramneg, Anaerobier</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Carbapeneme; Reserve-Antibiotika</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Breitspektrum-Antiobiotika (ITS)</div>\n<div>Laktamase-stabil</div>\n<div>Keine Wirkung bei MRSA</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.</b></div><div><div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div></div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div><b>HWZ: 0,5 - 4h</b> &nbsp;(Überbrückung durch hohe Dosierung\nmöglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "ra#},[?>&y",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Carbapeneme",
+                                        "Reserve-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Ertapenem",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Carbapeneme</b><div>grampos, gramneg, Anaerobier</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Carbapeneme; Reserve-Antibiotika</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Breitspektrum-Antiobiotika (ITS)</div>\n<div>Laktamase-stabil</div>\n<div>Keine Wirkung bei MRSA, <b>Enterokokken\nund Pseudomonas</b></div>\n<div><b>Geringe\nResistenzentwicklung</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.</b></div><div><div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div></div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div><b>HWZ: 0,5 - 4h</b> &nbsp;(Überbrückung durch hohe Dosierung\nmöglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "l{dcQ9;vIH",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Carbapeneme",
+                                        "Reserve-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Doripenem",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Carbapeneme</b><div>grampos, gramneg, Anaerobier</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Carbapeneme; Reserve-Antibiotika</b></div><div><b><br></b></div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Breitspektrum-Antiobiotika (ITS)</div>\n<div>Laktamase-stabil</div>\n<div>Keine Wirkung bei MRSA<b></b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v. <font color=\"#fc0107\">(als\nDauerinfusion da lösungsmittelstabil)</font></b></div>\n<div><div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div></div><div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div><b>HWZ: 0,5 - 4h</b> &nbsp;(Überbrückung durch hohe Dosierung\nmöglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "mU1}ymoj<o",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Carbapeneme",
+                                        "Reserve-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Aztreonam",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Monobactame</b><div>ß-Laktamasestabil</div><div>gramneg</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Monobactame</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>Aerobe gramnegative Keime</div>\n<div><b><font color=\"#fc0107\">Keine Wirkung gegen\ngrampositive Keime und anaerobe Keime</font></b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.</b></div>\n<div><div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div></div><div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: 1 – 3h &nbsp;(Überbrückung durch hohe Dosierung möglich, da\ngute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
                                     ],
                                     "guid": "N-M.#Do!3.",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Monobactame"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5441,6 +5526,33 @@
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": [
                                         "Aminoglykoside"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Methicillin",
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika;\nPenicillinase-feste-Antibiotika</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid;\nbeta-Laktamase-fest</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Nicht gegen gramnegative\nKeime</b></div>\n<div><b>Staphylokokken </b></div>\n<div>Merke: zwar sind Isoxazolylpenicilline theoretisch auch gegen andere\nErreger wirksam, die Wirksamkeit ist im Vergleich zu klassischen Penicillinen\naber bis zu 100-fach schwächer, so dass sie nur gegen Staphylokokken eingesetzt\nwerden</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Staphylokokken-Infektion (v.a. mit Penicillinase-bildenden Stämmen)</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Hepatotoxizität</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetration von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>\n<div>&nbsp;</div>"
+                                    ],
+                                    "guid": "A{~%|i$ca:",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicillinase-feste-Antibiotika"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Cefiderocol (Fe<sup>3+</sup>)",
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Neue Cephalosporine (Gruppe 3b+4+5 ;\ni.v.)</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b><b>bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div><b>Gramnegative Keime inkl.\nPseudomonas (Gruppe 3b)</b></div>\n<div><b>Sehr stabil gegen\nLaktamasen (Gruppe 4)</b></div>\n<div><b>MRSA (Gruppe 5)</b></div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>s. Wirkspektrum</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div><b>Spezielle Cephalosporine: Nephrotoxisches Potential (Kombinationen mit</b></div>\n<div><b>anderen nephrotox. Pharmaka eher vermeiden)</b></div>\n<div><b>Alkoholunverträglichkeit (NMTT-Substituierte Derivate\n(N-Methylthiotetrazol))</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrathekaler Applikation)</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div><b>Applikationsform: i.v.\n(deutlich höhere Wirkung als p.o.)</b></div>\n<div><b>Aufnahme: aktive\nAufnahme über eisenabhängige Transportproteine von gramnegativen Keimen in den\nperiplasmatischen Raum </b></div>\n<div><b>Verteilungsraum: Intrazelluläre\nAnreicherung mit Erreichung hoher Konzentrationen in gramnegativen Keimen</b></div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe\nDosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
+                                    ],
+                                    "guid": "GH6QiMe(c7",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Cephalosporine",
+                                        "Neue"
                                     ]
                                 }
                             ]
@@ -8545,19 +8657,6 @@
                     "media_files": [],
                     "name": "6.FS",
                     "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "cba86e32-9473-11eb-98c0-acde48001122",
-                    "deck_config_uuid": "cbafd668-9473-11eb-98c0-acde48001122",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [],
-                    "name": "Klinik",
-                    "notes": []
                 }
             ],
             "crowdanki_uuid": "cba84b0a-9473-11eb-98c0-acde48001122",
@@ -8772,7 +8871,9 @@
             ],
             "sortf": 0,
             "tags": [
-                "Aminoglykoside"
+                "beta-Laktam-Antibiotika",
+                "Neue",
+                "Cephalosporine"
             ],
             "tmpls": [
                 {
