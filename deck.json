@@ -3585,21 +3585,27 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Penicillin G",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Benzylpinicilline</b><div>v.a. grampos, auch gramneg.</div>"
+                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung:</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Herz: Infektiöse Endokarditis (bei sensibel getestetem Erreger in\nempfohlener Dosierung)</div>\n<div>ZNS: Meningitis (bei empfindlich getestetem Erreger)</div>\n<div>Diverse schwere systemische Infektionen: Syphilis, Diphtherie, Tetanus,\nMilzbrand, Leptospirose, Aktinomykose</div>\n<div>Knochen: Osteomyelitis</div>\n<div>Wundinfektionen: Gasbrand, Erysipel</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrthekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: nicht p.o. aufgrund der Magenpassage</div>\n<div>Applikationsform: i.v. oder i.m.</div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetraton von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "t#MCznK!#f",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicilline"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Penicillin V",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Phenoxypinicilline (=Oralpenicilline)</b><div>v.a. grampos, auch wenige gramneg.</div>"
+                                        "<b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b><br><div><br></div><div><b>Wirkung:</b></div><div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den beta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<font color=\"#0000ff\">grampositiven&nbsp;</font>Zellwänden von&nbsp;<u>wachsenden Bakterien</u></div><div><br></div><div><b>Wirkspektrum:</b></div><div>hämolysierende Streptokokken</div><div>Pneumokokken</div><div>Staphylokokken</div><div>Pepto- und Peptostrepkokken</div><div>Meningokokken</div><div>Gonokokken</div><div>Corynebakterium (Diphtherie)</div><div>Bacillus anthracis</div><div>Clostridien</div><div><div>Spirochäten (Treponema pallidum)</div><div>Borrelien</div><div>Leptospiren</div></div><div>Actinomyces-Arten</div><div>Fusobacterium-Arten</div><div>Bacteroides-Arten</div><div><b><br></b></div><div><b>Indikationen:</b></div><div><div>Insb. Streptokokkeninfektionen im HNO-Bereich und in den\noberen Atemwegen: Scharlach, Tonsillopharyngitis, Sinusitis, Otitis media</div></div><div><br></div><div><b>UAW:</b></div><div><div><div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der Darmflora)</div><div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div><div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div><div>Thrombozytenfunktionshemmung</div><div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<font color=\"#fc0107\">(dosisunabhängig)</font>: Urtikaria, multiple petechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div><div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div><div>Neurotoxizität (v.a. bei intrthekaler Applikation)</div><div><br></div><div></div></div><div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: nicht p.o. aufgrund der Magenpassage</div><div>Applikationsform: i.v. oder i.m.</div><div>Verteilungsraum: Extrazellularraum (schlechte Penetraton von Membranen; hydrophil; Wirkort wird nicht immer gut erreicht)</div><div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div><div>Elemination: renal</div><div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
                                     ],
                                     "guid": "r~r~y0lSa@",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "beta-Laktam-Antibiotika",
+                                        "Penicilline"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4013,7 +4019,9 @@
                                     ],
                                     "guid": "/].eD8lr5",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Glykopeptid-Antibiotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -8496,6 +8504,19 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "6.FS",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "cba86e32-9473-11eb-98c0-acde48001122",
+                    "deck_config_uuid": "cbafd668-9473-11eb-98c0-acde48001122",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Klinik",
                     "notes": []
                 }
             ],
