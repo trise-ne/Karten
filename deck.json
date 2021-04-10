@@ -3572,958 +3572,6 @@
                         {
                             "__type__": "Deck",
                             "children": [],
-                            "crowdanki_uuid": "4d66d394-99e4-11eb-b940-784f4370a0e0",
-                            "deck_config_uuid": "3c4c72ee-9561-11eb-a189-784f4370a0e0",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Antiasthmatika",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Omalizumab",
-                                        "<b>Antiasthmatika, Biological</b><div>Monoklonale Anti-IgE-AK´s</div>"
-                                    ],
-                                    "guid": "e:kv.({(?#",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Cromoglycinsäure",
-                                        "<b>Antiasthmatika, Cromone (Mastzellstabilisatoren)</b><div>Inhib. IgE-vermittelter + nicht immunolog. Mastzelldegranulation</div><div>I: allerg Rkt., schwach antiphlogistisch</div>"
-                                    ],
-                                    "guid": "rPAyv)xflv",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Nedrocromil",
-                                        "<b>Antiasthmatika, Cromone (Mastzellstabilisatoren)</b><div>Inhib. IgE-vermittelter + nicht immunolog. Mastzelldegranulation</div><div>I: allerg Rkt., schwach antiphlogistisch</div>"
-                                    ],
-                                    "guid": "q8HPseO0+>",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Theophyllin",
-                                        "<b>Antiasthmatika</b><div>PDE-Inhib. + Komp. Adenosin-Rez.-Inhib. -&gt; cAMP hoch -&gt; Relaxation glatte Bronchialmuskulatur</div><div>als Lösung -&gt; Reliever</div><div>Retardiert -&gt; Controller</div>"
-                                    ],
-                                    "guid": "IE`#7_[OfQ",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Zileuton",
-                                        "<b>Antiasthmatika, Leukotrien-Antagonisten</b><div>Gehemmte Leukotriensynthese, Controller</div>"
-                                    ],
-                                    "guid": "zM#i<WT]9g",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Montelukast",
-                                        "<b>Antiasthmatika, Leukotrienantagonist</b><div>CystLT1-Rez. blockiert</div><div>-&gt; bronchodilatatorisch + antiinflammatorisch</div>"
-                                    ],
-                                    "guid": "mb24<9-#BQ",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Mopolizumab",
-                                        "<b>Antiasthmatika, Biologicals</b><div>humanisierter IgG1-AK gegen IL-5</div>"
-                                    ],
-                                    "guid": "G-]-}{:-y",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Reslizumab",
-                                        "<b>Antiasthmatika, Biologicals</b><div>humanisierter IgG4-AK gegen IL-5</div>"
-                                    ],
-                                    "guid": "l<rEw/;a!T",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Benralizumab",
-                                        "<b>Antiasthmatika, Biologicals</b><div>humanisierter AK gegen a-UE des IL-5-Rez.</div>"
-                                    ],
-                                    "guid": "z1J2R0OG>i",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                }
-                            ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "4d671246-99e4-11eb-b940-784f4370a0e0",
-                            "deck_config_uuid": "3c4c72ee-9561-11eb-a189-784f4370a0e0",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Antidiabetika",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Normalinsulin = Altinsulin",
-                                        "<b>Kurzwirkende Insuline</b>"
-                                    ],
-                                    "guid": "myz-m!,LW",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Insulin Lispro",
-                                        "<b>Schnellwirkende Insulin-Analoga</b>"
-                                    ],
-                                    "guid": "nwPc(1.w^]",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Insulin Aspartat",
-                                        "<b>Schnellwirkende Insulin-Analoga</b>"
-                                    ],
-                                    "guid": "pCRaTUZ++G",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Insulin Glulisin",
-                                        "<b>Schnellwirkende Insulin-Analoga</b>"
-                                    ],
-                                    "guid": "F;-AvGW)wq",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "NPH-Insuline",
-                                        "<b>Verzögerungsinsuline/Basalinsuline</b>"
-                                    ],
-                                    "guid": "DD0o_@j}!D",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Surfen-Insuline",
-                                        "<b>Verzögerungsinsuline/Basalinsuline</b>"
-                                    ],
-                                    "guid": "KemE~}DIc|",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Lente-Insuline",
-                                        "<b>Verzögerungsinsuline/Basalinsuline</b>"
-                                    ],
-                                    "guid": "b5@5e&WN8a",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Insulin Glargin (Lantus)",
-                                        "<b>Langwirkende Insulinanaloga</b>"
-                                    ],
-                                    "guid": "z:QA#(Z/UW",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Insulin Detemir",
-                                        "<b>Langwirkende Insulinanaloga</b>"
-                                    ],
-                                    "guid": "Qr5|#:?:Ac",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Insulin Degludec",
-                                        "<b>Langwirkende Insulinanaloga</b>"
-                                    ],
-                                    "guid": "hlvdj>yOb8",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Carbutamid",
-                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
-                                    ],
-                                    "guid": "w9f(t$N)gb",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Tolbutamid",
-                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
-                                    ],
-                                    "guid": "GV#_!p5hK?",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Glimepirid",
-                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
-                                    ],
-                                    "guid": "QKM<k;_XFq",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Gliquidon",
-                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
-                                    ],
-                                    "guid": "n$Lz44[R$B",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Gliclarid",
-                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
-                                    ],
-                                    "guid": "b.078zS=64",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Glibormired",
-                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
-                                    ],
-                                    "guid": "oe]oP!5;8d",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Glibenclamid",
-                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
-                                    ],
-                                    "guid": "EF4oSe0DC@",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Repaglinid",
-                                        "<b>Insulinotrope Antidiabetika, Glinide</b><div>Schliesser des K<sub>ATP</sub>-Kanals 2 der B-Zellen, Glucoseabhängiger Effekt</div>"
-                                    ],
-                                    "guid": "C!E>VwD5_{",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Nateglinid",
-                                        "<b>Insulinotrope Antidiabetika, Glinide</b><div>Schliesser des K<sub>ATP</sub>-Kanals 2 der B-Zellen, Glucoseabhängiger Effekt</div>"
-                                    ],
-                                    "guid": "z+8X}M0KE`",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Exendin-4",
-                                        "<b>Insulinotrope Antidiabetika, Inkretin-Mimetika</b><div>-&gt;stabiler als GLP1</div>"
-                                    ],
-                                    "guid": "JX^b)mA;_#",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Exenatide",
-                                        "<b>Insulinotrope Antidiabetika, Inkretin-Mimetika</b><div>-&gt;GLP1-Superagonist, nicht durch DDP-4-gespalten</div>"
-                                    ],
-                                    "guid": "DckptJ>$;$",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Liraglutid",
-                                        "<b>Insulinotrope Antidiabetika, Inkretin-Mimetika</b>"
-                                    ],
-                                    "guid": "DqW$P07St)",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sitagliptin",
-                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
-                                    ],
-                                    "guid": "fwr6oOIX`",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Vildagliptin",
-                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
-                                    ],
-                                    "guid": "n_D.#/wq8Z",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Saxagliptin",
-                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
-                                    ],
-                                    "guid": "xO:bMFYI?=",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Linegliptin",
-                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
-                                    ],
-                                    "guid": "c92*~WQ`dm",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Metformin",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, Biguanide</b><div>hepat Gluconeogenese inh., Glu-Absorption im Darm inh., Glucoseaufnahme in Muskelzelle gesteigert</div>"
-                                    ],
-                                    "guid": "Pp!%zbJaB4",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Acarbose",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, a-Glucosidase-Hemmer</b><div>komp. Hemmung der a-Glucosidase am intestinalen Bürstensaum</div>"
-                                    ],
-                                    "guid": "b}}#9-Vpmz",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Miglitol",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, a-Glucosidase-Hemmer</b><div>komp. Hemmung der a-Glucosidase am intestinalen Bürstensaum</div>"
-                                    ],
-                                    "guid": "OvOu#dc0gs",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Pioglitazon",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, Glitazone (Insulin-Sensitizer)</b><div>Inh. Freisetzung von Zytokinen (TNF, Leptin,...) aus Fettzellen -&gt; GLUT4-Expression hoch + Fettspeicherung in Adipozyten hoch</div>"
-                                    ],
-                                    "guid": "bu1U4cyq/X",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Rosiglitazon",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, Glitazone (Insulin-Sensitizer)</b><div>Inh. Freisetzung von Zytokinen (TNF, Leptin,...) aus Fettzellen -&gt; GLUT4-Expression hoch + Fettspeicherung in Adipozyten hoch</div>"
-                                    ],
-                                    "guid": "ju`+?8GWZs",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Canagliflozin",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
-                                    ],
-                                    "guid": "ek#+0iF::@",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Dapagliflozin",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
-                                    ],
-                                    "guid": "J%e8`FH||K",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Empagliflozin",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
-                                    ],
-                                    "guid": "Fx1G*pH@h8",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Ertugliflozin",
-                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
-                                    ],
-                                    "guid": "O`Lcp=kP?|",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                }
-                            ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
-                            "crowdanki_uuid": "4d679c48-99e4-11eb-b940-784f4370a0e0",
-                            "deck_config_uuid": "3c4c72ee-9561-11eb-a189-784f4370a0e0",
-                            "desc": "",
-                            "dyn": 0,
-                            "extendNew": 0,
-                            "extendRev": 0,
-                            "media_files": [],
-                            "name": "Antihypertonika",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Captopril",
-                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
-                                    ],
-                                    "guid": "s^l,a8HAJF",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Enalapril(-at)",
-                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
-                                    ],
-                                    "guid": "nCpT0}s+Vg",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Fosfinopril(-at)",
-                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
-                                    ],
-                                    "guid": "P]ht1Cf|yb",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "LIsinopril(-at)",
-                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
-                                    ],
-                                    "guid": "luCxFu}f(<",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Ramipril(-at)",
-                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
-                                    ],
-                                    "guid": "HoeC:Bx1N(",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Losartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "kKM-fYg~8w",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Valsartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "m@><|ae?be",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Irbesartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "sZ{1@_p<d<",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Eprosartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "Bc,UI7?h#!",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Candesartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "Ov!xkDA#M)",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Azilsartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "iY__A=)WTj",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Telmisartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "GkHP#iZ77[",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Olmesartan",
-                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
-                                    ],
-                                    "guid": "A!8(Bdxp1L",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "<b>Sacubitril </b>+ Valsartan = Entresto",
-                                        "<b>Antihypertensiva, Vasopeptidase-Hemmer</b><div>Simultane Inhib, von ACE und NEP (Neutrale Endopeptidase)</div>"
-                                    ],
-                                    "guid": "N?F.}<o;zs",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Nifedipin",
-                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
-                                    ],
-                                    "guid": "nf5FQnT1y?",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Isradipin",
-                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
-                                    ],
-                                    "guid": "z7KT|)<9Y&",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Felodipin",
-                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
-                                    ],
-                                    "guid": "Do~q9vNzde",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Amlodipin",
-                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
-                                    ],
-                                    "guid": "f,c}QjB@Uf",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Verapamil",
-                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Phenylalkylamine; Antiarrythmikum Kl. IV</b><div>Blockade der L-Typ-Ca2+-Kanäle</div><div>Vasodilatation, neg chrono- + dromotrop</div>"
-                                    ],
-                                    "guid": "BcJQ.(hI8g",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Diltiazem",
-                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt;&nbsp;</b><b>Benzothiazepine</b><b>; Antiarrythmikum Kl. IV</b><div><div><div>Blockade der L-Typ-Ca2+-Kanäle</div></div><div>Vasodilatation, neg chrono- + dromotrop</div></div>"
-                                    ],
-                                    "guid": "OcPQ2Yxb?#",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Minoxidil",
-                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>RR runter, NW: Reflextachykardien</div>"
-                                    ],
-                                    "guid": "nH9d(Dz+hV",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Diazoxid",
-                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>RR runter, NW: Reflextachykardien</div><div>i.v. Antihypertensiv</div><div>oral: Glucose hoch, Insulinsekretion gehemmt</div>"
-                                    ],
-                                    "guid": "E]lcr4%8U-",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Dihydralazin",
-                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>Arteriolendilatation</div>"
-                                    ],
-                                    "guid": "p,hfX|wUi[",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Hydralazin",
-                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>Arteriolendilatation</div>"
-                                    ],
-                                    "guid": "m^>;%QJ)dx",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Acetazolamid",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Carboanhydrase-Hemmer</b><div>WI am proximalen Tubulus; schwache Diurese</div>"
-                                    ],
-                                    "guid": "jus&mNo{r!",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Brinzolamid",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Carboanhydrase-Hemmer</b><div>WI am proximalen Tubulus; schwache Diurese</div>"
-                                    ],
-                                    "guid": "J?WtYw}-EH",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Hydrochlorthiazid",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
-                                    ],
-                                    "guid": "c[EapPuzh:",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Chlortalidon",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
-                                    ],
-                                    "guid": "r:1[1-crKU",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Xipamid",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
-                                    ],
-                                    "guid": "wQ5PO2!AC~",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Indapamid",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
-                                    ],
-                                    "guid": "e45Kz@wKq2",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Bendroflumethiazid",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
-                                    ],
-                                    "guid": "NuXe;,bb/1",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Bemetizid",
-                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
-                                    ],
-                                    "guid": "y-Y4=-@KoC",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Furosemid",
-                                        "<b>Antihypertensiva, Schleifendiuretika \"High Ceiling-Diuretika\"</b><div>WI am aufsteigenden Ast der Henle-Schleife</div><div>NKCC2-Cotrsp gehemmt, starke Natriurese, GFR =</div>"
-                                    ],
-                                    "guid": "kb!Lg.W%{/",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Torasemid",
-                                        "<b>Antihypertensiva, Schleifendiuretika \"High Ceiling-Diuretika\"</b><div>WI am aufsteigenden Ast der Henle-Schleife</div><div>NKCC2-Cotrsp gehemmt, starke Natriurese, GFR =</div>"
-                                    ],
-                                    "guid": "iLi1cq;:!&",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Piretanid",
-                                        "<b>Antihypertensiva, Schleifendiuretika \"High Ceiling-Diuretika\"</b><div>WI am aufsteigenden Ast der Henle-Schleife</div><div>NKCC2-Cotrsp gehemmt, starke Natriurese, GFR =</div>"
-                                    ],
-                                    "guid": "sWGAV:n+zX",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Amilorid",
-                                        "<b>Antihypertensiva, K+-sparende Diuretika I</b><div>WI am spätdist. Tubulus</div><div>ENaC-Blockade, K+-Retention, schwache Diurese</div>"
-                                    ],
-                                    "guid": "kC_?eAv>sQ",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Triamteren",
-                                        "<b>Antihypertensiva, K+-sparende Diuretika I</b><div>WI am spätdist. Tubulus</div><div>ENaC-Blockade, K+-Retention, schwache Diurese</div>"
-                                    ],
-                                    "guid": "lE-r(uqzrX",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Spironolacton",
-                                        "<b>Antihypertensiva, K+-sparende Diuretika II/Aldosteron-Antagonisten \"Low-Ceiling-Diuretika\"</b>"
-                                    ],
-                                    "guid": "weRJ}V^#;M",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Kaliumcanrenoat",
-                                        "<b>Antihypertensiva, K+-sparende Diuretika II/Aldosteron-Antagonisten \"Low-Ceiling-Diuretika\"</b><div>kanzerogen!</div>"
-                                    ],
-                                    "guid": "cN4(l@2oN>",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Eplerenon",
-                                        "<b>Antihypertensiva, K+-sparende Diuretika II/Aldosteron-Antagonisten \"Low-Ceiling-Diuretika\"</b><div>SARA = Selektiver-Aldosteron-Rez.-Antagonist<b><br></b><div>komp Bdg. an Aldosteron-Rez., antifibrot. WI</div></div>"
-                                    ],
-                                    "guid": "lCgS1CE@06",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "D-Mannitol",
-                                        "<b>Antihypertensiva, Osmodiuretika</b><div>parenteral, keine tubuläre Rückresorption -&gt; Diurese durch osmot. Wasserbdg.</div>"
-                                    ],
-                                    "guid": "A1Ci,[Eim`",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "D-Sorbitol",
-                                        "<b>Antihypertensiva, Osmodiuretika</b><div>parenteral, keine tubuläre Rückresorption -&gt; Diurese durch osmot. Wasserbdg.</div>"
-                                    ],
-                                    "guid": "l!|QN4>q^f",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Tolvaptan",
-                                        "<b>Antihypertensiva, Vasopression-Rez.-Antagonisten</b><div>V2-Rez blockiert -&gt; kein AQP2-Einbau im Sammelrohr</div><div>-&gt; keine H2O-Resorption -&gt; Aquarese</div><div>! Hyponatriämie !</div>"
-                                    ],
-                                    "guid": "KlV[-2$3&7",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Amantadin",
-                                        "<b>Virustatika -&gt; Influenza</b><div>Verhindert Uncoating</div>"
-                                    ],
-                                    "guid": "IvW:zVp?zO",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Ribavirin",
-                                        "<b>Virustatika -&gt; DNA/RNA-Viren</b><div>Guanosin-Analogin</div>"
-                                    ],
-                                    "guid": "A>t/qBh=M8",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Zidovudin",
-                                        "<b>Virustatika -&gt; AIDS -&gt; Nukleoside Reverse-Transkriptase-Inhib. (NRTI)</b><div>Thymidin-Analogon</div><div>HIV-1 + HIV-2</div>"
-                                    ],
-                                    "guid": "Js#LcZmo/&",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Stavudin",
-                                        "<b>Virustatika -&gt; AIDS -&gt; Nukleoside Reverse-Transkriptase-Inhib. (NRTI)</b><div>Thymidin-Analogon</div><div>HIV-1 + HIV-2</div>"
-                                    ],
-                                    "guid": "iul+;*r-#D",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                }
-                            ]
-                        },
-                        {
-                            "__type__": "Deck",
-                            "children": [],
                             "crowdanki_uuid": "4d686574-99e4-11eb-b940-784f4370a0e0",
                             "deck_config_uuid": "3c4c72ee-9561-11eb-a189-784f4370a0e0",
                             "desc": "",
@@ -4531,7 +3579,7 @@
                             "extendNew": 0,
                             "extendRev": 0,
                             "media_files": [],
-                            "name": "Antiinfektiva",
+                            "name": "1.  Antiinfektiva",
                             "notes": [
                                 {
                                     "__type__": "Note",
@@ -6340,6 +5388,958 @@
                                         "<b>SARS-Cov2</b>"
                                     ],
                                     "guid": "Lilam53ty:",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "4d66d394-99e4-11eb-b940-784f4370a0e0",
+                            "deck_config_uuid": "3c4c72ee-9561-11eb-a189-784f4370a0e0",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Antiasthmatika",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Omalizumab",
+                                        "<b>Antiasthmatika, Biological</b><div>Monoklonale Anti-IgE-AK´s</div>"
+                                    ],
+                                    "guid": "e:kv.({(?#",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Cromoglycinsäure",
+                                        "<b>Antiasthmatika, Cromone (Mastzellstabilisatoren)</b><div>Inhib. IgE-vermittelter + nicht immunolog. Mastzelldegranulation</div><div>I: allerg Rkt., schwach antiphlogistisch</div>"
+                                    ],
+                                    "guid": "rPAyv)xflv",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Nedrocromil",
+                                        "<b>Antiasthmatika, Cromone (Mastzellstabilisatoren)</b><div>Inhib. IgE-vermittelter + nicht immunolog. Mastzelldegranulation</div><div>I: allerg Rkt., schwach antiphlogistisch</div>"
+                                    ],
+                                    "guid": "q8HPseO0+>",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Theophyllin",
+                                        "<b>Antiasthmatika</b><div>PDE-Inhib. + Komp. Adenosin-Rez.-Inhib. -&gt; cAMP hoch -&gt; Relaxation glatte Bronchialmuskulatur</div><div>als Lösung -&gt; Reliever</div><div>Retardiert -&gt; Controller</div>"
+                                    ],
+                                    "guid": "IE`#7_[OfQ",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Zileuton",
+                                        "<b>Antiasthmatika, Leukotrien-Antagonisten</b><div>Gehemmte Leukotriensynthese, Controller</div>"
+                                    ],
+                                    "guid": "zM#i<WT]9g",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Montelukast",
+                                        "<b>Antiasthmatika, Leukotrienantagonist</b><div>CystLT1-Rez. blockiert</div><div>-&gt; bronchodilatatorisch + antiinflammatorisch</div>"
+                                    ],
+                                    "guid": "mb24<9-#BQ",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Mopolizumab",
+                                        "<b>Antiasthmatika, Biologicals</b><div>humanisierter IgG1-AK gegen IL-5</div>"
+                                    ],
+                                    "guid": "G-]-}{:-y",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Reslizumab",
+                                        "<b>Antiasthmatika, Biologicals</b><div>humanisierter IgG4-AK gegen IL-5</div>"
+                                    ],
+                                    "guid": "l<rEw/;a!T",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Benralizumab",
+                                        "<b>Antiasthmatika, Biologicals</b><div>humanisierter AK gegen a-UE des IL-5-Rez.</div>"
+                                    ],
+                                    "guid": "z1J2R0OG>i",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "4d671246-99e4-11eb-b940-784f4370a0e0",
+                            "deck_config_uuid": "3c4c72ee-9561-11eb-a189-784f4370a0e0",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Antidiabetika",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Normalinsulin = Altinsulin",
+                                        "<b>Kurzwirkende Insuline</b>"
+                                    ],
+                                    "guid": "myz-m!,LW",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insulin Lispro",
+                                        "<b>Schnellwirkende Insulin-Analoga</b>"
+                                    ],
+                                    "guid": "nwPc(1.w^]",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insulin Aspartat",
+                                        "<b>Schnellwirkende Insulin-Analoga</b>"
+                                    ],
+                                    "guid": "pCRaTUZ++G",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insulin Glulisin",
+                                        "<b>Schnellwirkende Insulin-Analoga</b>"
+                                    ],
+                                    "guid": "F;-AvGW)wq",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "NPH-Insuline",
+                                        "<b>Verzögerungsinsuline/Basalinsuline</b>"
+                                    ],
+                                    "guid": "DD0o_@j}!D",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Surfen-Insuline",
+                                        "<b>Verzögerungsinsuline/Basalinsuline</b>"
+                                    ],
+                                    "guid": "KemE~}DIc|",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Lente-Insuline",
+                                        "<b>Verzögerungsinsuline/Basalinsuline</b>"
+                                    ],
+                                    "guid": "b5@5e&WN8a",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insulin Glargin (Lantus)",
+                                        "<b>Langwirkende Insulinanaloga</b>"
+                                    ],
+                                    "guid": "z:QA#(Z/UW",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insulin Detemir",
+                                        "<b>Langwirkende Insulinanaloga</b>"
+                                    ],
+                                    "guid": "Qr5|#:?:Ac",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Insulin Degludec",
+                                        "<b>Langwirkende Insulinanaloga</b>"
+                                    ],
+                                    "guid": "hlvdj>yOb8",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Carbutamid",
+                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
+                                    ],
+                                    "guid": "w9f(t$N)gb",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tolbutamid",
+                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
+                                    ],
+                                    "guid": "GV#_!p5hK?",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Glimepirid",
+                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
+                                    ],
+                                    "guid": "QKM<k;_XFq",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Gliquidon",
+                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
+                                    ],
+                                    "guid": "n$Lz44[R$B",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Gliclarid",
+                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
+                                    ],
+                                    "guid": "b.078zS=64",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Glibormired",
+                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
+                                    ],
+                                    "guid": "oe]oP!5;8d",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Glibenclamid",
+                                        "<b>Insulinotrope Antidiabetika, Sulfonylharnstoffe</b><div>Schliesser des K<sub>ATP</sub>-Kanals 1 der B-Zellen -&gt; Glucoseunabhängige Insulinsekretion</div><div><br></div>"
+                                    ],
+                                    "guid": "EF4oSe0DC@",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Repaglinid",
+                                        "<b>Insulinotrope Antidiabetika, Glinide</b><div>Schliesser des K<sub>ATP</sub>-Kanals 2 der B-Zellen, Glucoseabhängiger Effekt</div>"
+                                    ],
+                                    "guid": "C!E>VwD5_{",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Nateglinid",
+                                        "<b>Insulinotrope Antidiabetika, Glinide</b><div>Schliesser des K<sub>ATP</sub>-Kanals 2 der B-Zellen, Glucoseabhängiger Effekt</div>"
+                                    ],
+                                    "guid": "z+8X}M0KE`",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Exendin-4",
+                                        "<b>Insulinotrope Antidiabetika, Inkretin-Mimetika</b><div>-&gt;stabiler als GLP1</div>"
+                                    ],
+                                    "guid": "JX^b)mA;_#",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Exenatide",
+                                        "<b>Insulinotrope Antidiabetika, Inkretin-Mimetika</b><div>-&gt;GLP1-Superagonist, nicht durch DDP-4-gespalten</div>"
+                                    ],
+                                    "guid": "DckptJ>$;$",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Liraglutid",
+                                        "<b>Insulinotrope Antidiabetika, Inkretin-Mimetika</b>"
+                                    ],
+                                    "guid": "DqW$P07St)",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sitagliptin",
+                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
+                                    ],
+                                    "guid": "fwr6oOIX`",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Vildagliptin",
+                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
+                                    ],
+                                    "guid": "n_D.#/wq8Z",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Saxagliptin",
+                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
+                                    ],
+                                    "guid": "xO:bMFYI?=",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Linegliptin",
+                                        "<b>Insulinotrope Antidiabetika, Inkretin-Abbau-Inhib. (=Dipeptidylpeptidase 4-Inh.)</b><div><br></div>"
+                                    ],
+                                    "guid": "c92*~WQ`dm",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Metformin",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, Biguanide</b><div>hepat Gluconeogenese inh., Glu-Absorption im Darm inh., Glucoseaufnahme in Muskelzelle gesteigert</div>"
+                                    ],
+                                    "guid": "Pp!%zbJaB4",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Acarbose",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, a-Glucosidase-Hemmer</b><div>komp. Hemmung der a-Glucosidase am intestinalen Bürstensaum</div>"
+                                    ],
+                                    "guid": "b}}#9-Vpmz",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Miglitol",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, a-Glucosidase-Hemmer</b><div>komp. Hemmung der a-Glucosidase am intestinalen Bürstensaum</div>"
+                                    ],
+                                    "guid": "OvOu#dc0gs",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pioglitazon",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, Glitazone (Insulin-Sensitizer)</b><div>Inh. Freisetzung von Zytokinen (TNF, Leptin,...) aus Fettzellen -&gt; GLUT4-Expression hoch + Fettspeicherung in Adipozyten hoch</div>"
+                                    ],
+                                    "guid": "bu1U4cyq/X",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rosiglitazon",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, Glitazone (Insulin-Sensitizer)</b><div>Inh. Freisetzung von Zytokinen (TNF, Leptin,...) aus Fettzellen -&gt; GLUT4-Expression hoch + Fettspeicherung in Adipozyten hoch</div>"
+                                    ],
+                                    "guid": "ju`+?8GWZs",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Canagliflozin",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
+                                    ],
+                                    "guid": "ek#+0iF::@",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dapagliflozin",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
+                                    ],
+                                    "guid": "J%e8`FH||K",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Empagliflozin",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
+                                    ],
+                                    "guid": "Fx1G*pH@h8",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ertugliflozin",
+                                        "<b>Nicht-Insulinotrope Antidiabetika, SGLT2-Inhib.</b><div>WI: Renale Glucoseausscheidung erhöht</div>"
+                                    ],
+                                    "guid": "O`Lcp=kP?|",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "4d679c48-99e4-11eb-b940-784f4370a0e0",
+                            "deck_config_uuid": "3c4c72ee-9561-11eb-a189-784f4370a0e0",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Antihypertonika",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Captopril",
+                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
+                                    ],
+                                    "guid": "s^l,a8HAJF",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Enalapril(-at)",
+                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
+                                    ],
+                                    "guid": "nCpT0}s+Vg",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Fosfinopril(-at)",
+                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
+                                    ],
+                                    "guid": "P]ht1Cf|yb",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "LIsinopril(-at)",
+                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
+                                    ],
+                                    "guid": "luCxFu}f(<",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ramipril(-at)",
+                                        "<b>Antihypertensiva, ACE-Hemmer</b><div><b><br></b></div>"
+                                    ],
+                                    "guid": "HoeC:Bx1N(",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Losartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "kKM-fYg~8w",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Valsartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "m@><|ae?be",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Irbesartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "sZ{1@_p<d<",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Eprosartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "Bc,UI7?h#!",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Candesartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "Ov!xkDA#M)",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Azilsartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "iY__A=)WTj",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Telmisartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "GkHP#iZ77[",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Olmesartan",
+                                        "<b>Antihypertensiva, AT1-Blocker/Sartane</b>"
+                                    ],
+                                    "guid": "A!8(Bdxp1L",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<b>Sacubitril </b>+ Valsartan = Entresto",
+                                        "<b>Antihypertensiva, Vasopeptidase-Hemmer</b><div>Simultane Inhib, von ACE und NEP (Neutrale Endopeptidase)</div>"
+                                    ],
+                                    "guid": "N?F.}<o;zs",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Nifedipin",
+                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
+                                    ],
+                                    "guid": "nf5FQnT1y?",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Isradipin",
+                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
+                                    ],
+                                    "guid": "z7KT|)<9Y&",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Felodipin",
+                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
+                                    ],
+                                    "guid": "Do~q9vNzde",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Amlodipin",
+                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Dihydropyridine</b><div>L-Typ-Ca2+-Kanal blockiert -&gt; Vasodilatation</div>"
+                                    ],
+                                    "guid": "f,c}QjB@Uf",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Verapamil",
+                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt; Phenylalkylamine; Antiarrythmikum Kl. IV</b><div>Blockade der L-Typ-Ca2+-Kanäle</div><div>Vasodilatation, neg chrono- + dromotrop</div>"
+                                    ],
+                                    "guid": "BcJQ.(hI8g",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Diltiazem",
+                                        "<b>Antihypertensiva, Ca2+-Antagonisten -&gt;&nbsp;</b><b>Benzothiazepine</b><b>; Antiarrythmikum Kl. IV</b><div><div><div>Blockade der L-Typ-Ca2+-Kanäle</div></div><div>Vasodilatation, neg chrono- + dromotrop</div></div>"
+                                    ],
+                                    "guid": "OcPQ2Yxb?#",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Minoxidil",
+                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>RR runter, NW: Reflextachykardien</div>"
+                                    ],
+                                    "guid": "nH9d(Dz+hV",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Diazoxid",
+                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>RR runter, NW: Reflextachykardien</div><div>i.v. Antihypertensiv</div><div>oral: Glucose hoch, Insulinsekretion gehemmt</div>"
+                                    ],
+                                    "guid": "E]lcr4%8U-",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Dihydralazin",
+                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>Arteriolendilatation</div>"
+                                    ],
+                                    "guid": "p,hfX|wUi[",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hydralazin",
+                                        "<b>Antihypertensiva, K+-Kanal-Aktivatoren</b><div>Arteriolendilatation</div>"
+                                    ],
+                                    "guid": "m^>;%QJ)dx",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Acetazolamid",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Carboanhydrase-Hemmer</b><div>WI am proximalen Tubulus; schwache Diurese</div>"
+                                    ],
+                                    "guid": "jus&mNo{r!",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Brinzolamid",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Carboanhydrase-Hemmer</b><div>WI am proximalen Tubulus; schwache Diurese</div>"
+                                    ],
+                                    "guid": "J?WtYw}-EH",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Hydrochlorthiazid",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
+                                    ],
+                                    "guid": "c[EapPuzh:",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Chlortalidon",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
+                                    ],
+                                    "guid": "r:1[1-crKU",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Xipamid",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
+                                    ],
+                                    "guid": "wQ5PO2!AC~",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Indapamid",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
+                                    ],
+                                    "guid": "e45Kz@wKq2",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Bendroflumethiazid",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
+                                    ],
+                                    "guid": "NuXe;,bb/1",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Bemetizid",
+                                        "<b>Antihypertensiva, Diuretika -&gt; Thiazide \"Low-Ceiling-Diuretika\"</b><div>WI am frühdistalen Tubulus</div><div>Na-Cl-Cotrsp. inhib. -&gt; Natriurese, GFR runter</div><div>Antiosteoporotisch</div>"
+                                    ],
+                                    "guid": "y-Y4=-@KoC",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Furosemid",
+                                        "<b>Antihypertensiva, Schleifendiuretika \"High Ceiling-Diuretika\"</b><div>WI am aufsteigenden Ast der Henle-Schleife</div><div>NKCC2-Cotrsp gehemmt, starke Natriurese, GFR =</div>"
+                                    ],
+                                    "guid": "kb!Lg.W%{/",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Torasemid",
+                                        "<b>Antihypertensiva, Schleifendiuretika \"High Ceiling-Diuretika\"</b><div>WI am aufsteigenden Ast der Henle-Schleife</div><div>NKCC2-Cotrsp gehemmt, starke Natriurese, GFR =</div>"
+                                    ],
+                                    "guid": "iLi1cq;:!&",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Piretanid",
+                                        "<b>Antihypertensiva, Schleifendiuretika \"High Ceiling-Diuretika\"</b><div>WI am aufsteigenden Ast der Henle-Schleife</div><div>NKCC2-Cotrsp gehemmt, starke Natriurese, GFR =</div>"
+                                    ],
+                                    "guid": "sWGAV:n+zX",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Amilorid",
+                                        "<b>Antihypertensiva, K+-sparende Diuretika I</b><div>WI am spätdist. Tubulus</div><div>ENaC-Blockade, K+-Retention, schwache Diurese</div>"
+                                    ],
+                                    "guid": "kC_?eAv>sQ",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Triamteren",
+                                        "<b>Antihypertensiva, K+-sparende Diuretika I</b><div>WI am spätdist. Tubulus</div><div>ENaC-Blockade, K+-Retention, schwache Diurese</div>"
+                                    ],
+                                    "guid": "lE-r(uqzrX",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Spironolacton",
+                                        "<b>Antihypertensiva, K+-sparende Diuretika II/Aldosteron-Antagonisten \"Low-Ceiling-Diuretika\"</b>"
+                                    ],
+                                    "guid": "weRJ}V^#;M",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Kaliumcanrenoat",
+                                        "<b>Antihypertensiva, K+-sparende Diuretika II/Aldosteron-Antagonisten \"Low-Ceiling-Diuretika\"</b><div>kanzerogen!</div>"
+                                    ],
+                                    "guid": "cN4(l@2oN>",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Eplerenon",
+                                        "<b>Antihypertensiva, K+-sparende Diuretika II/Aldosteron-Antagonisten \"Low-Ceiling-Diuretika\"</b><div>SARA = Selektiver-Aldosteron-Rez.-Antagonist<b><br></b><div>komp Bdg. an Aldosteron-Rez., antifibrot. WI</div></div>"
+                                    ],
+                                    "guid": "lCgS1CE@06",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "D-Mannitol",
+                                        "<b>Antihypertensiva, Osmodiuretika</b><div>parenteral, keine tubuläre Rückresorption -&gt; Diurese durch osmot. Wasserbdg.</div>"
+                                    ],
+                                    "guid": "A1Ci,[Eim`",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "D-Sorbitol",
+                                        "<b>Antihypertensiva, Osmodiuretika</b><div>parenteral, keine tubuläre Rückresorption -&gt; Diurese durch osmot. Wasserbdg.</div>"
+                                    ],
+                                    "guid": "l!|QN4>q^f",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Tolvaptan",
+                                        "<b>Antihypertensiva, Vasopression-Rez.-Antagonisten</b><div>V2-Rez blockiert -&gt; kein AQP2-Einbau im Sammelrohr</div><div>-&gt; keine H2O-Resorption -&gt; Aquarese</div><div>! Hyponatriämie !</div>"
+                                    ],
+                                    "guid": "KlV[-2$3&7",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Amantadin",
+                                        "<b>Virustatika -&gt; Influenza</b><div>Verhindert Uncoating</div>"
+                                    ],
+                                    "guid": "IvW:zVp?zO",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ribavirin",
+                                        "<b>Virustatika -&gt; DNA/RNA-Viren</b><div>Guanosin-Analogin</div>"
+                                    ],
+                                    "guid": "A>t/qBh=M8",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Zidovudin",
+                                        "<b>Virustatika -&gt; AIDS -&gt; Nukleoside Reverse-Transkriptase-Inhib. (NRTI)</b><div>Thymidin-Analogon</div><div>HIV-1 + HIV-2</div>"
+                                    ],
+                                    "guid": "Js#LcZmo/&",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Stavudin",
+                                        "<b>Virustatika -&gt; AIDS -&gt; Nukleoside Reverse-Transkriptase-Inhib. (NRTI)</b><div>Thymidin-Analogon</div><div>HIV-1 + HIV-2</div>"
+                                    ],
+                                    "guid": "iul+;*r-#D",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": []
                                 }
@@ -8492,6 +8492,19 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "6.FS",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "cba86e32-9473-11eb-98c0-acde48001122",
+                    "deck_config_uuid": "cbafd668-9473-11eb-98c0-acde48001122",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Klinik",
                     "notes": []
                 }
             ],
