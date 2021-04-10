@@ -3585,27 +3585,21 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Penicillin G",
-                                        "<div><b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakterizid</b></div>\n<div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den\nbeta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<span style=\"color: blue;\">grampositiven&nbsp;</span>Zellwänden von&nbsp;<u>wachsenden\nBakterien</u></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>hämolysierende Streptokokken</div>\n<div>Pneumokokken</div>\n<div>Staphylokokken</div>\n<div>Pepto- und Peptostrepkokken</div>\n<div>Meningokokken</div>\n<div>Gonokokken</div>\n<div>Corynebakterium (Diphtherie)</div>\n<div>Bacillus anthracis</div>\n<div>Clostridien</div>\n<div>Spirochäten (Treponema pallidum)</div>\n<div>Borrelien</div>\n<div>Leptospiren</div>\n<div>Actinomyces-Arten</div>\n<div>Fusobacterium-Arten</div>\n<div>Bacteroides-Arten</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Herz: Infektiöse Endokarditis (bei sensibel getestetem Erreger in\nempfohlener Dosierung)</div>\n<div>ZNS: Meningitis (bei empfindlich getestetem Erreger)</div>\n<div>Diverse schwere systemische Infektionen: Syphilis, Diphtherie, Tetanus,\nMilzbrand, Leptospirose, Aktinomykose</div>\n<div>Knochen: Osteomyelitis</div>\n<div>Wundinfektionen: Gasbrand, Erysipel</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der\nDarmflora)</div>\n<div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div>\n<div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div>\n<div>Thrombozytenfunktionshemmung</div>\n<div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<span style=\"color: rgb(252, 1, 7);\">(dosisunabhängig)</span>: Urtikaria, multiple\npetechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div>\n<div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div>\n<div>Neurotoxizität (v.a. bei intrthekaler Applikation)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: nicht p.o. aufgrund der Magenpassage</div>\n<div>Applikationsform: i.v. oder i.m.</div>\n<div>Verteilungsraum: Extrazellularraum (schlechte Penetraton von Membranen;\nhydrophil; Wirkort wird nicht immer gut erreicht)</div>\n<div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div>\n<div>Elemination: renal</div>\n<div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute\nVerträglichkeit - NW sind dosisunabhägig!)</div>"
+                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Benzylpinicilline</b><div>v.a. grampos, auch gramneg.</div>"
                                     ],
                                     "guid": "t#MCznK!#f",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "beta-Laktam-Antibiotika",
-                                        "Penicilline"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Penicillin V",
-                                        "<b>Klasse:&nbsp;beta-Laktam-Antibiotika; Penicilline</b><br><div><br></div><div><b>Wirkung: bakterizid</b></div><div>Hemmung der bakteriellen D-Alanin-Transpeptidase durch Bindung an den beta-Laktam-Ring bei der Quervernetzung von Peptidoglykane in&nbsp;<font color=\"#0000ff\">grampositiven&nbsp;</font>Zellwänden von&nbsp;<u>wachsenden Bakterien</u></div><div><br></div><div><b>Wirkspektrum:</b></div><div>hämolysierende Streptokokken</div><div>Pneumokokken</div><div>Staphylokokken</div><div>Pepto- und Peptostrepkokken</div><div>Meningokokken</div><div>Gonokokken</div><div>Corynebakterium (Diphtherie)</div><div>Bacillus anthracis</div><div>Clostridien</div><div><div>Spirochäten (Treponema pallidum)</div><div>Borrelien</div><div>Leptospiren</div></div><div>Actinomyces-Arten</div><div>Fusobacterium-Arten</div><div>Bacteroides-Arten</div><div><b><br></b></div><div><b>Indikationen:</b></div><div><div>Insb. Streptokokkeninfektionen im HNO-Bereich und in den\noberen Atemwegen: Scharlach, Tonsillopharyngitis, Sinusitis, Otitis media</div></div><div><br></div><div><b>UAW:</b></div><div><div><div>Gastrointestinale NW (Übelkeit, Erbrechen, Diarrhoe, Schädigung der Darmflora)</div><div>SS bei Unterbrechung des enterohepatischen Kreislaufes</div><div>Erhöhter Blutungsneigung (bei gestörter Darmflora und Vit-K-Mangel)</div><div>Thrombozytenfunktionshemmung</div><div>Hoch allergenes Potential/Allergische Nebenwirkungen&nbsp;<font color=\"#fc0107\">(dosisunabhängig)</font>: Urtikaria, multiple petechiale Purpura, toxischer Epidermolyse, Vasculitis allergica, Quincke Ödem</div><div>Kreuzallergien zwischen Penicillinen und Cephalosporinen (5- 10%)</div><div>Neurotoxizität (v.a. bei intrthekaler Applikation)</div><div><br></div><div></div></div><div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: nicht p.o. aufgrund der Magenpassage</div><div>Applikationsform: i.v. oder i.m.</div><div>Verteilungsraum: Extrazellularraum (schlechte Penetraton von Membranen; hydrophil; Wirkort wird nicht immer gut erreicht)</div><div>Metabolismus: z.T. Entstehung von immunogenen Stoffen</div><div>Elemination: renal</div><div>HWZ: etwa 1-3h (Überbrückung durch hohe Dosierung möglich, da gute Verträglichkeit - NW sind dosisunabhägig!)</div>"
+                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotika -&gt; Schmalspektrumpenicilline -&gt; Phenoxypinicilline (=Oralpenicilline)</b><div>v.a. grampos, auch wenige gramneg.</div>"
                                     ],
                                     "guid": "r~r~y0lSa@",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "beta-Laktam-Antibiotika",
-                                        "Penicilline"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -3981,7 +3975,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Vancomycin",
-                                        "<div><b>Klasse:&nbsp;</b>Glykopeptid-Antibiotika<b>&nbsp;</b>\"alte Präparate\"<br><div><br></div><div><b>Wirkung:&nbsp;</b><b>bakterizid</b></div><div>gegen <font color=\"#0000ff\" style=\"\">grampositive</font> Keime (keine Penetration zum Wirkort bei gram-negativen Keimen)<br>Blockade der Quervernetzung während Zellwandsynthese (unter Bindung an Alanin der einzelnen Glykopeptidpolymere)<br><br></div><div><b>Indikationen:</b></div><div>vorranig: MRSA-Infektionen, pseudomembranöse Enterokolitis (C. difficile - Infektionen)</div><div><br></div><div><b>UAW:</b></div><div>Nephro- und Ototoxitität<br><br><b>Pharmakokinetik:<br></b>kaum Penetration von biol. Barrieren (große Struktur)<br>orale Bioverfügbarkeit ~<b>0% </b>- nur parenterale Applikation<br>HWZ 4-6h<br>kaum Metabolisierung<br>ca.&nbsp;<b>95%</b>&nbsp;<b>renale Elimnation</b><br></div></div>"
+                                        "<div><b>Klasse:&nbsp;</b>Glykopeptid-Antibiotika<b>&nbsp;</b>\"alte Präparate\"<br><div><br></div><div><b>Wirkung:</b></div><div>gegen <b>grampositive</b> Keime (keine Penetration zum Wirkort bei gram-negativen Keimen)<br><b>bakterizid</b> - Blockade der Quervernetzung während Zellwandsynthese (unter Bindung an Alanin der einzelnen Glykopeptidpolymere)<br><br></div><div><b>Indikationen:</b></div><div>vorranig: MRSA-Infektionen, pseudomembranöse Enterokolitis (C. difficile - Infektionen)</div><div><br></div><div><b>UAW:</b></div><div>Nephro- und Ototoxitität<br><br><b>Pharmakokinetik:<br></b>kaum Penetration von biol. Barrieren (große Struktur)<br>orale Bioverfügbarkeit ~<b>0% </b>- nur parenterale Applikation<br>HWZ 4-6h<br>kaum Metabolisierung<br>ca.&nbsp;<b>95%</b>&nbsp;<b>renale Elimnation</b><br></div></div>"
                                     ],
                                     "guid": "d4-<I!j-~s",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -3993,7 +3987,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Teicoplanin",
-                                        "<b>Klasse:&nbsp;</b>Glykopeptid-Antibiotika<b>&nbsp;</b>\"alte Präparate\"<br><div><br></div><div><b>Wirkung:&nbsp;</b><b>bakterizid</b></div><div>gegen&nbsp;<span style=\"color: rgb(0, 0, 255);\">grampositive</span>&nbsp;Keime (keine Penetration zum Wirkort bei gram-negativen Keimen)<br>Blockade der Quervernetzung während Zellwandsynthese (unter Bindung an Alanin der einzelnen Glykopeptidpolymere)<br><br></div><div><b>Indikationen:</b></div><div>vorranig: MRSA-Infektionen, pseudomembranöse Enterokolitis (C. difficile - Infektionen)</div><div><br></div><div><b>UAW:</b></div><div>Nephro- und Ototoxitität<br><br><b>Pharmakokinetik:<br></b>kaum Penetration von biol. Barrieren (große Struktur)<br>orale Bioverfügbarkeit ~<b>0%&nbsp;</b>- nur parenterale Applikation<br><b>HWZ</b>&nbsp;ca. <b>100-170h </b>(auf Grund der des hohen an Plasmaproteinen gebundenen Anteils)<br>kaum Metabolisierung<br>ca.&nbsp;70%&nbsp;renale Elimnation</div>"
+                                        "<b>Klasse:&nbsp;</b>Glykopeptid-Antibiotika<b>&nbsp;</b>\"alte Präparate\"<br><div><br></div><div><b>Wirkung:</b></div><div>gegen&nbsp;<b>grampositive</b>&nbsp;Keime (keine Penetration zum Wirkort bei gram-negativen Keimen)<br><b>bakterizid</b>&nbsp;- Blockade der Quervernetzung während Zellwandsynthese (unter Bindung an Alanin der einzelnen Glykopeptidpolymere)<br><br></div><div><b>Indikationen:</b></div><div>vorranig: MRSA-Infektionen, pseudomembranöse Enterokolitis (C. difficile - Infektionen)</div><div><br></div><div><b>UAW:</b></div><div>Nephro- und Ototoxitität<br><br><b>Pharmakokinetik:<br></b>kaum Penetration von biol. Barrieren (große Struktur)<br>orale Bioverfügbarkeit ~<b>0%&nbsp;</b>- nur parenterale Applikation<br><b>HWZ</b>&nbsp;ca. <b>100-170h </b>(auf Grund der des hohen an Plasmaproteinen gebundenen Anteils)<br>kaum Metabolisierung<br>ca.&nbsp;70%&nbsp;renale Elimnation</div>"
                                     ],
                                     "guid": "y&&x.f)TGc",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4015,25 +4009,21 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Oritavancin",
-                                        "<b>Klasse:&nbsp;</b>Glykopeptid-Antibiotika<b>&nbsp;</b>\"neues Präparat - abgeleitet von Vancomycin\"<br><div><br></div><div><b>Wirkung:&nbsp;</b><b>bakterizid</b></div><div>gegen&nbsp;<font color=\"#0000ff\">grampositive</font>&nbsp;Keime (keine Penetration zum Wirkort bei gram-negativen Keimen)<br>Blockade der Quervernetzung während Zellwandsynthese (unter Bindung an Alanin der einzelnen Glykopeptidpolymere)<br><b>Wirkverbesserung bei neuen Präparaten: zusätzlich Dimerisierung der bakt. Membran &gt; Depolarisierung der Bakt.</b><br><br></div><div><b>Indikationen:</b></div><div>dermale grampositive Infekte</div><div><br></div><div><b>UAW:</b></div><div>Nephro- und Ototoxitität<br><br><b>Pharmakokinetik:<br></b>ausgeprägte lipophile Seitenketten&nbsp;<br>orale Bioverfügbarkeit ~<b>0%&nbsp;</b>- nur parenterale Applikation<br>HWZ 245h<br>kaum Metabolisierung<br>überwiegend unveränderte&nbsp;renale Elimnation</div>"
+                                        "<b>Klasse:&nbsp;</b>Glykopeptid-Antibiotika<b>&nbsp;</b>\"neues Präparat - abgeleitet von Vancomycin\"<br><div><br></div><div><b>Wirkung:</b></div><div>gegen&nbsp;<b>grampositive</b>&nbsp;Keime (keine Penetration zum Wirkort bei gram-negativen Keimen)<br><b>bakterizid</b>&nbsp;- Blockade der Quervernetzung während Zellwandsynthese (unter Bindung an Alanin der einzelnen Glykopeptidpolymere)<br><b>Wirkverbesserung bei neuen Präparaten: zusätzlich Dimerisierung der bakt. Membran &gt; Depolarisierung der Bakt.</b><br><br></div><div><b>Indikationen:</b></div><div>dermale grampositive Infekte</div><div><br></div><div><b>UAW:</b></div><div>Nephro- und Ototoxitität<br><br><b>Pharmakokinetik:<br></b>ausgeprägte lipophile Seitenketten&nbsp;<br>orale Bioverfügbarkeit ~<b>0%&nbsp;</b>- nur parenterale Applikation<br>HWZ 245h<br>kaum Metabolisierung<br>überwiegend unveränderte&nbsp;renale Elimnation</div>"
                                     ],
                                     "guid": "/].eD8lr5",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Glykopeptid-Antibiotika"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Dalbavancin",
-                                        "<b>Klasse:&nbsp;</b>Glykopeptid-Antibiotika<b>&nbsp;</b>\"neues Präparat - abgeleitet von Teicoplantin\"<br><div><br></div><div><b>Wirkung:</b></div><div>gegen&nbsp;<b>grampositive</b>&nbsp;Keime (keine Penetration zum Wirkort bei gram-negativen Keimen)<br><b>bakterizid</b>&nbsp;- Blockade der Quervernetzung während Zellwandsynthese (unter Bindung an Alanin der einzelnen Glykopeptidpolymere)<br><b>Wirkverbesserung bei neuen Präparaten: zusätzlich Dimerisierung der bakt. Membran &gt; Depolarisierung der Bakt.</b><br><br></div><div><b>Indikationen:</b></div><div>dermale und Weichteilinfekte mit grampositiven Keimen</div><div><br></div><div><b>UAW:</b></div><div>Nephro- und Ototoxitität<br><br><b>Pharmakokinetik:<br></b>ausgeprägte lipophile Seitenketten&nbsp;<br>orale Bioverfügbarkeit ~<b>0%&nbsp;</b>- nur parenterale Applikation<br>HWZ 346h<br>kaum Metabolisierung<br>unveränderte&nbsp;renale Elimination ca. 33%, biliär ca. 20%</div>"
+                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; Glykopeptidantibiotika</b><div>grampos Kokken</div>"
                                     ],
                                     "guid": "P#bHCE:SUt",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Glykopeptid-Antibiotika"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4253,9 +4243,7 @@
                                     ],
                                     "guid": "kNzd#U|7Sc",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4265,9 +4253,7 @@
                                     ],
                                     "guid": "mrJ1(GOX4]",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4277,21 +4263,17 @@
                                     ],
                                     "guid": "id9P;-K$}L",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "<b>Amikacin</b>",
+                                        "Amicain",
                                         "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Aminoglykoside</b><div>Bdg. an 30S-ribosomale UE -&gt; Fehlsteuerung d. Proteinsynthese</div><div>! bakterizid !</div>"
                                     ],
                                     "guid": "Qj1X}9Mm*v",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4301,9 +4283,7 @@
                                     ],
                                     "guid": "oCmg2=Dg3Z",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4313,9 +4293,7 @@
                                     ],
                                     "guid": "PMR~439a@a",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4325,9 +4303,7 @@
                                     ],
                                     "guid": "EZE{k{+>aJ",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4337,9 +4313,7 @@
                                     ],
                                     "guid": "x|MwA[<q.&",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4654,26 +4628,22 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Polymyxin B (Colistin)",
-                                        "<div><b>Klasse:&nbsp;Sonstige-Antiinfektiva (</b><b>Polypeptid-Antibiotika)</b></div>\n<div>&nbsp;<br><br></div>\n<div><b>Wirkung: bakterizid</b></div>\n<div>gute Wirkung gegen<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative&nbsp;</span>Stäbchen durch Destabilisierung der Zellmembran &gt; Zelllyse&nbsp;</div>\n<div>&nbsp;<br><br></div>\n<b>Wirkspektrum:<br></b>Pesudomonas aeruginosa<br>Enterobacteriaceae<br>keine Wirkung bei grampositiven Keimen<br>\n<div>&nbsp;<br><br></div>\n<div><b>UAW:</b><br>Nephro-/ Neurotoxizität (<b>keine</b> systemische Applikation!)<br><br></div><div><br></div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: orale Bioverfügbarkeit ~0%</div>\n<div>Applikationsform:&nbsp;&nbsp;i.v. als <b>Prodrug</b>; lokal; (p.o. zur Darmdekontamination);</div>"
+                                        "Polymyxin B",
+                                        "<b>Antibiotika -&gt; Beeinflussung d. Zytoplasmamembran -&gt; Polypeptid-Antibiotika</b><div>bakterizid</div><div>Rkt. mit Phospholipidkomponenten -&gt; Zytoplasmamembranfunktionsstör.</div>"
                                     ],
                                     "guid": "NxiNye)X`r",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Sonstige-Antiinfektiva"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Colistin (Polymyxin B)",
-                                        "<div><b>Klasse:&nbsp;Sonstige-Antiinfektiva (</b><b>Polypeptid-Antibiotika)</b></div><div>&nbsp;<br><br></div><div><b>Wirkung: bakterizid</b></div><div>gute Wirkung gegen<span style=\"color: blue;\">&nbsp;</span><span style=\"color: red;\">gramnegative&nbsp;</span>Stäbchen durch Destabilisierung der Zellmembran &gt; Zelllyse&nbsp;</div><div>&nbsp;<br><br></div><b>Wirkspektrum:<br></b>Pesudomonas aeruginosa<br>Enterobacteriaceae<br>keine Wirkung bei grampositiven Keimen<br><div>&nbsp;<br><br></div><div><b>UAW:</b><br>Nephro-/ Neurotoxizität (<b>keine</b>&nbsp;systemische Applikation!)<br><br></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: orale Bioverfügbarkeit ~0%</div><div>Applikationsform:&nbsp;&nbsp;i.v. als&nbsp;<b>Prodrug</b>; lokal; (p.o. zur Darmdekontamination);</div>"
+                                        "Colistin (Polymyxin E)",
+                                        "<b>Antibiotika -&gt; Beeinflussung d. Zytoplasmamembran -&gt; Polypeptid-Antibiotika</b><div>bakterizid</div><div>Rkt. mit Phospholipidkomponenten -&gt; Zytoplasmamembranfunktionsstör.</div>"
                                     ],
                                     "guid": "MVDvlPgECc",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Sonstige-Antiinfektiva"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4689,13 +4659,11 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Bacitracin",
-                                        "<div><div><b>Klasse: Sonstige-Antiinfektiva</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakterizid</b></div>\n<div>Hemmung der Zellwandsynthese: Hemmung der Regeneration des Carriers Undecaprenol, essentiell für die Synthese / Auswärtstransport der Acetylmuraminsäure-Pentapeptide (indirekte Export-Hemmung)<span style=\"color: blue;\"><br></span></div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Akute&nbsp;bakterielle&nbsp;Entzündungen des&nbsp;äußeren Gehörgangs&nbsp;(Otitis externa), bei denen eine topische Behandlung mit&nbsp;Kortikosteroiden&nbsp;wie Hydrocortisonacetat (Ph. Eur.) angezeigt ist und gleichzeitig eine oberflächliche&nbsp;Infektion&nbsp;mit Polymyxin-B-sulfat oder Bacitracin-empfindlichen Erregern besteht.</div>\n<div>&nbsp;<br><br></div>\n<div><b>UAW:<br>Nephrotoxizität </b>bei system. Applikation</div>\n<div>immunogene Wirkung möglich (dermale Applikation)&nbsp;</div>\n<div>&nbsp;<br><br></div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Applikationsform: nur lokal! (Cave: immunogene Reaktionen)</div></div>"
+                                        "<b>Antibiotika -&gt; Beeinflussung d. Zytoplasmamembran -&gt; Polypeptid-Antibiotika</b><div>bakterizid</div><div>Rkt. mit Phospholipidkomponenten -&gt; Zytoplasmamembranfunktionsstör.</div><div>hemmt Carrier: Undecaprenol</div>"
                                     ],
                                     "guid": "MV3t5T^Wb;",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Sonstige-Antiinfektiva"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4720,26 +4688,22 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Fosfomycin",
-                                        "<div><b>Klasse:&nbsp;Sonstige-Antiinfektiva</b></div><div>&nbsp;</div><div><b>Wirkung: bakterizid</b></div><div>Zellwandsynthesehemmung: Hemmung der Synthese von Vorstufen d. Acetylmuraminsäure-Pentapeptide über Pyruvyltransferase-Hemmung</div><div>&nbsp;</div><div><b>Indikationen:</b></div><div>Niere&nbsp;und Harnwege:<br>&nbsp;- Infektionsprophylaxe bei Interventionen/Operationen an den unteren Harnwegen&nbsp;<div></div>&nbsp;- Unkomplizierte&nbsp;Urozystitis<br></div><div>&nbsp;</div><div><b>UAW:</b></div><div>Exantheme<br>Transaminasenanstiege</div><div>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Applikationsform: p.o.<br>aktive Aufnahme in Bakterien nur unter Glukose-6-Phosphat-Bedarf (Wichtig für Testung im Labor)</div><div>Verteilungsraum:&nbsp;<b>gute Gewebepenetration</b></div><div>Elimination: renal in hauptsächlich unveränderter Form</div><div>HWZ: ca. 2h</div>"
+                                        "Fofomycin",
+                                        "<b>Antibiotika -&gt; Beeinflussung d. Zytoplasmamembran -&gt; Polypeptid-Antibiotika</b><div>bakterizid</div><div>Hemmt Synthese von Vorstufen d. Acetylmuraminsäure-Pentapeptide über Pyruvyltransferase-Hemmung</div>"
                                     ],
                                     "guid": "vhN/9B.9>@",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Sonstige-Antiinfektiva"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Daptomycin",
-                                        "<b>Antibiotika -&gt; Beeinflussung d. Zytoplasmamembran -&gt; Lipopeptide</b><div>Bdg. an Zytoplasmamembran -&gt; Depolarisation durch Kaliumreflux -&gt; bakt. Zelltod durch Dysfkt. d. Protein-, DNA-, RNA-Synthese<br><br><div><b>Klasse:&nbsp;Sonstige-Antiinfektiva</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakterizid (Aber Ausnahme: Porenbildung!)</b><br>Gegen&nbsp;<span style=\"color: rgb(0, 0, 255);\">grampositive</span>&nbsp;Keime (keine Penetration zur Membran bei gramnegativen Keimen)<br>Einlagerung als Lipopeptid in Zytoplasmamembran mit Porenbildung &gt; Zelltod&nbsp;</div>\n<div><span style=\"color: blue;\">&nbsp;</span>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>- Therapie einer MRSA-Infektion<br>- Therapie einer Enterokokken-Infektion (E. faecium&nbsp;-&nbsp;Kalkulierte antibiotische Therapie)<br><br>Verwendung nur bei schweren und komplizierten&nbsp;Infektionen&nbsp;folgender Organsysteme, wenn keine alternativen Antibiotika zur Verfügung stehen: <br>- SIRS/Sepsis<br>- Haut&nbsp;und Weichteile<br>- Herz:&nbsp;Infektiöse Endokarditis<br><br>Cave: <b>Nicht</b> <b>bei</b> Infektfokus <b>Pneumonie</b>! (Daptomycin&nbsp;wird vom&nbsp;Surfactant&nbsp;in den&nbsp;Lungenalveolen&nbsp;inaktiviert)</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Schädigung Skelettmuskulatur<br>Nephrotoxizität<br>Neuropathien<br>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Applikationsform: i.v.</div>\n<div>Elemination: unverändert renal&nbsp;<br></div>\n<div>HWZ: 8-9h&nbsp;</div></div>"
+                                        "<b>Antibiotika -&gt; Beeinflussung d. Zytoplasmamembran -&gt; Lipopeptide</b><div>Bdg. an Zytoplasmamembran -&gt; Depolarisation durch Kaliumreflux -&gt; bakt. Zelltod durch Dysfkt. d. Protein-, DNA-, RNA-Synthese</div>"
                                     ],
                                     "guid": "8Nl?-SWUv",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Sonstige-Antiinfektiva"
-                                    ]
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -5430,18 +5394,6 @@
                                     "guid": "Lilam53ty:",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Kanamycin",
-                                        ""
-                                    ],
-                                    "guid": "sr@R,=z-P&",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": [
-                                        "Aminoglykoside"
-                                    ]
                                 }
                             ]
                         },
@@ -8545,19 +8497,6 @@
                     "media_files": [],
                     "name": "6.FS",
                     "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "cba86e32-9473-11eb-98c0-acde48001122",
-                    "deck_config_uuid": "cbafd668-9473-11eb-98c0-acde48001122",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [],
-                    "name": "Klinik",
-                    "notes": []
                 }
             ],
             "crowdanki_uuid": "cba84b0a-9473-11eb-98c0-acde48001122",
@@ -8771,9 +8710,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": [
-                "Aminoglykoside"
-            ],
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
