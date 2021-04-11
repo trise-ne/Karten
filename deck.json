@@ -3740,7 +3740,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Avibactam",
-                                        ""
+                                        "<div><b>Klasse: reversible beta-Laktamase-Hemmer</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b></div><div><font color=\"#fc0107\">Reversible</font>&nbsp;Hemmung (keine Lactam-Struktur)&nbsp;der bakteriellen Beta-Laktamase, die durch Spaltung des Betalaktamringes der\nAntibiotika (z.B. Penicilline) die Antibiotikawirkung aufhebt; Anwendung in Kombination mit&nbsp; Beta-Laktam-Antibiotika; selbst keine antibiotische Wirksamkeit; keine Induktion neuer Laktamase-Enzyme (kein Selektionsdruck)</div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Gruppe A (Serin-beta-Laktamasen): plasmidcodierte Penicillinasen von Staph., E. coli und Klebsiellen, ESBL&nbsp;&nbsp;</div><div>Gruppe C (Serin-beta-Laktamasen): Cephalosporinasen</div><div>Gruppe D (Serin-beta-Laktamasen): Oxicillinasen</div><div><br></div><div><b>Indikationen:</b></div><div>In Kombination mit Ceftazidim = Zavicefta</div><div><br></div><div><b>UAW:</b></div><div>s. Ceftazidim</div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Orale Bioverfügbarkeit: gering</div><div>Metabolismus: kaum</div><div>Elemination: renal</div><div>HWZ: 2 h</div></div>"
                                     ],
                                     "guid": "C(_S#vD[)R",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -3752,7 +3752,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Clavulansäure",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotikazusatz -&gt; ß-Lactamaseinhibitoren<br></b><div>irreversibel, idR Kombi mit Amoxycillin</div>"
+                                        "<div><b>Klasse: irreversible beta-Laktamase-Hemmer</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b></div><div><font color=\"#fc0107\">Irreversible</font>&nbsp;Hemmung (Lactam-Struktur)&nbsp;der bakteriellen Beta-Laktamase, die durch Spaltung des Betalaktamringes der Antibiotika (z.B. Penicilline) die Antibiotikawirkung aufhebt; Anwendung in Kombination mit Beta-Laktam-Antibiotika; selbst keine antibiotische Wirksamkeit; Induktion neuer Laktamase-Enzyme (Selektionsdruck)</div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Gruppe A (Serin-beta-Laktamasen): plasmidcodierte Penicillinasen von Staph., E. coli und Klebsiellen, ESBL<br></div><div><br></div><div><b>Indikationen:</b></div><div>In Kombination mit Amoxicillin = Augmentan/Amoclav</div><div><br></div><div><b>UAW:</b></div><div>s. Amoxicillin</div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Orale Bioverfügbarkeit: 60 %</div><div>Metabolismus: 50 %</div><div>Elemination: renal</div><div>HWZ: 1 h</div></div>"
                                     ],
                                     "guid": "BT57mD5)K5",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -3764,7 +3764,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Sulbactam",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotikazusatz -&gt; ß-Lactamaseinhibitoren<br></b><div>irreversibel, idr Kombi mit Ampicillin</div>"
+                                        "<div><b>Klasse: irreversible beta-Laktamase-Hemmer</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b></div><div><font color=\"#fc0107\">Irreversible</font>&nbsp;Hemmung (Lactam-Struktur)&nbsp;der bakteriellen Beta-Laktamase, die durch Spaltung des Betalaktamringes der Antibiotika (z.B. Penicilline) die Antibiotikawirkung aufhebt; Anwendung in Kombination mit Beta-Laktam-Antibiotika; selbst keine antibiotische Wirksamkeit; Induktion neuer Laktamase-Enzyme (Selektionsdruck)</div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div><br></div><div><b>Indikationen:</b></div><div>In Kombination mit Ampicillin = Unacid/Ampicillin comp</div><div><br></div><div><b>UAW:</b></div><div>s. Ampicillin&nbsp;</div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Orale Bioverfügbarkeit: gering</div><div>Metabolismus: gering</div><div>Elemination: renal</div><div>HWZ: 1 h</div></div>"
                                     ],
                                     "guid": "PCPcKj@`(Q",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -3776,7 +3776,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Tazobactam",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotikazusatz -&gt; ß-Lactamaseinhibitoren<br></b><div>irreversibel, idR Kombi mit Piperacillin</div>"
+                                        "<div><b>Klasse: irreversible beta-Laktamase-Hemmer</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b></div><div><font color=\"#fc0107\">Irreversible</font>&nbsp;Hemmung (Lactam-Struktur)&nbsp;der bakteriellen Beta-Laktamase, die durch Spaltung des Betalaktamringes der Antibiotika (z.B. Penicilline) die Antibiotikawirkung aufhebt; Anwendung in Kombination mit Beta-Laktam-Antibiotika; selbst keine antibiotische Wirksamkeit; Induktion neuer Laktamase-Enzyme (Selektionsdruck)</div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Gruppe A (Serin-beta-Laktamasen): plasmidcodierte Penicillinasen von Staph., E. coli und Klebsiellen, ESBL<br></div><div><br></div><div><b>Indikationen:</b></div><div>In Kombination mit Piperacillin = Tazobac</div><div><br></div><div><b>UAW:</b></div><div>s. Piperacillin</div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Orale Bioverfügbarkeit: gering</div><div>Metabolismus: 30 %</div><div>Elemination: renal</div><div>HWZ: 1 h</div></div>"
                                     ],
                                     "guid": "c5z96&{afk",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -3788,7 +3788,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Vaborbactam",
-                                        "<b>Antibiotika -&gt; Zellwandbiosynthese-Inhib. -&gt; ß-Lactam-Antibiotikazusatz -&gt; ß-Lactamaseinhibitoren<br></b><div>irreversibel</div>"
+                                        "<div><b>Klasse: irreversible beta-Laktamase-Hemmer</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b></div><div><font color=\"#fc0107\">Irreversible</font>&nbsp;Hemmung (Lactam-Struktur)&nbsp;der bakteriellen Beta-Laktamase, die durch Spaltung des Betalaktamringes der Antibiotika (z.B. Penicilline) die Antibiotikawirkung aufhebt; Anwendung in Kombination mit Beta-Laktam-Antibiotika; selbst keine antibiotische Wirksamkeit; Induktion neuer Laktamase-Enzyme (Selektionsdruck)</div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Gruppe A (Serin-beta-Laktamasen): plasmidcodierte Penicillinasen von Staph., E. coli und Klebsiellen, ESBL<br></div><div>Gruppe C (Serin-beta-Laktamasen): Cephalosporinasen<br></div><div><br></div><div><b>Indikationen:</b></div><div>In Kombination mit Meropenem&nbsp;= Vabomere</div><div><br></div><div><b>UAW:</b></div><div>s. Meropenem</div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Orale Bioverfügbarkeit: gering</div><div>Metabolismus: kaum</div><div>Elemination: renal (zu 95 %)</div><div>HWZ: 2 h</div></div>"
                                     ],
                                     "guid": "J%OSYlV(Ts",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
