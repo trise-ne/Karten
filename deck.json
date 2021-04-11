@@ -4481,41 +4481,25 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Norfloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 1</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                        "<div><b>Klasse:&nbsp;Fluorchinolone; Klasse I</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid (konzentrationabhägig)</b></div><div><div>Hemmung bakterieller Topoisomerasen II und IV; weitere Mechnismen</div><div><br></div></div><div><b>Indikationen:</b></div><div>Klasse I: Orales Fluorchinolone auf HWI beschränkt</div><div><br></div><div><b>KI:</b></div><div><font color=\"#fc0107\">Kinder: Hemmung des Knochenwachstums</font></div><div><br></div><div><b>UAW:</b></div><div><div>Gastrointestinale Beschwerden</div><div>ZNS: GABA/NMDA Rezeptorinteraktion</div><div>Allergien</div><div>Phototoxizität</div><div>Kardiotoxizität: QT-Zeit-Verlängerung</div><div>Chondrotoxizität/Tendopathien: Hemmung des Knochenwachsums; Achillessehnenruptur (bradytrophe Gewebe)</div><div>Selten: Störung der Hämatopoese</div><div>Chelatbildung: Affinität zu 2- und 3-wertigen Metallen</div><div>Hemmng: CYP 1A2</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Verteilungsraum: gute Gewebeverteilung (auch intrazellulär)<br></div></div><div>Orale Bioverfügbarkeit: 30 bis 95 %</div><div>Metabolismus: Hemmeung von CYP 1A2</div><div>Elimination: renal 25 – 80%<br></div><div>HWZ: 3 - 13 h&nbsp;</div>"
                                     ],
                                     "guid": "KgA7UNh6>]",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Fluorchinolone"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Ciprofloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2;&nbsp;</b><b>Antituberkulotika bei atypischen Mykobakteriosen</b><div><div>bakterizid<br><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div></div>"
+                                        "<div><b>Klasse:&nbsp;Fluorchinolone; Klasse II</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid (konzentrationabhägig)</b></div><div><div>Hemmung bakterieller Topoisomerasen II und IV; weitere Mechnismen</div><div><br></div></div><div><b>Indikationen:</b></div><div>Klasse II: systemisch Anwedung mit breiter Indikation z.B. Haemophilus, Salmonellen, Pseudomonas</div><div><br></div><div><b>KI:</b></div><div><font color=\"#fc0107\">Kinder: Hemmung des Knochenwachstums</font></div><div><br></div><div><b>UAW:</b></div><div><div>Gastrointestinale Beschwerden</div><div>ZNS: GABA/NMDA Rezeptorinteraktion</div><div>Allergien</div><div>Phototoxizität</div><div>Kardiotoxizität: QT-Zeit-Verlängerung</div><div>Chondrotoxizität/Tendopathien: Hemmung des Knochenwachsums; Achillessehnenruptur (bradytrophe Gewebe)</div><div>Selten: Störung der Hämatopoese</div><div>Chelatbildung: Affinität zu 2- und 3-wertigen Metallen</div><div>Hemmng: CYP 1A2</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Verteilungsraum: gute Gewebeverteilung (auch intrazellulär)<br></div></div><div>Orale Bioverfügbarkeit: 30 bis 95 %</div><div>Metabolismus: Hemmeung von CYP 1A2</div><div>Elimination: renal 25 – 80%<br></div><div>HWZ: 3 - 13 h&nbsp;</div>"
                                     ],
                                     "guid": "Q(2<mDV@zT",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Ofloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "u.(]MMH>1D",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Enoxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "E}9p`&>>Gi",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Fluorchinolone"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4531,31 +4515,25 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Levofloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 3</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                        "<div><b>Klasse:&nbsp;Fluorchinolone; Klasse III</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid (konzentrationabhägig)</b></div><div><div>Hemmung bakterieller Topoisomerasen II und IV; weitere Mechnismen</div><div><br></div></div><div><b>Indikationen:</b></div><div>Klasse III: Verbesserte Aktivität gegen grampositive und atypische Errereger</div><div><br></div><div><b>KI:</b></div><div><font color=\"#fc0107\">Kinder: Hemmung des Knochenwachstums</font></div><div><br></div><div><b>UAW:</b></div><div><div>Gastrointestinale Beschwerden</div><div>ZNS: GABA/NMDA Rezeptorinteraktion</div><div>Allergien</div><div>Phototoxizität</div><div>Kardiotoxizität: QT-Zeit-Verlängerung</div><div>Chondrotoxizität/Tendopathien: Hemmung des Knochenwachsums; Achillessehnenruptur (bradytrophe Gewebe)</div><div>Selten: Störung der Hämatopoese</div><div>Chelatbildung: Affinität zu 2- und 3-wertigen Metallen</div><div>Hemmng: CYP 1A2</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Verteilungsraum: gute Gewebeverteilung (auch intrazellulär)<br></div></div><div>Orale Bioverfügbarkeit: 30 bis 95 %</div><div>Metabolismus: Hemmeung von CYP 1A2</div><div>Elimination: renal 25 – 80%<br></div><div>HWZ: 3 - 13 h&nbsp;</div>"
                                     ],
                                     "guid": "p,<*.u.p-]",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Delafloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 3</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "D<t^,8hNrm",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Fluorchinolone"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Moxifloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 4;&nbsp;</b><b>Antituberkulotika bei atypischen Mykobakteriosen</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                        "<div><b>Klasse:&nbsp;Fluorchinolone; Klasse VI</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid (konzentrationabhägig)</b></div><div><div>Hemmung bakterieller Topoisomerasen II und IV; weitere Mechnismen</div><div><br></div></div><div><b>Indikationen:</b></div><div>Klasse VI: Verbesserte Aktivität gegen grampositive und atypische Errereger + Anaerobier + multiresistente Mykobakterien</div><div><br></div><div><b>KI:</b></div><div><font color=\"#fc0107\">Kinder: Hemmung des Knochenwachstums</font></div><div><br></div><div><b>UAW:</b></div><div><div>Gastrointestinale Beschwerden</div><div>ZNS: GABA/NMDA Rezeptorinteraktion</div><div>Allergien</div><div>Phototoxizität</div><div>Kardiotoxizität: QT-Zeit-Verlängerung</div><div>Chondrotoxizität/Tendopathien: Hemmung des Knochenwachsums; Achillessehnenruptur (bradytrophe Gewebe)</div><div>Selten: Störung der Hämatopoese</div><div>Chelatbildung: Affinität zu 2- und 3-wertigen Metallen</div><div>Hemmng: CYP 1A2</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Verteilungsraum: gute Gewebeverteilung (auch intrazellulär)<br></div></div><div>Orale Bioverfügbarkeit: 30 bis 95 %</div><div>Metabolismus: Hemmeung von CYP 1A2</div><div>Elimination: renal 25 – 80%<br></div><div>HWZ: 3 - 13 h&nbsp;</div>"
                                     ],
                                     "guid": "CBMU<NhzQa",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Fluorchinolone"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4564,86 +4542,6 @@
                                         "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 4</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
                                     ],
                                     "guid": "h3)UT>>[v1",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfadiazin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "OdslgP49;i",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfamerazin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "si%S;9$vv@",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfamethoxazol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "LpShAm.,NO",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfalen",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "h)(|MBicwo",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfadioxin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "Hfya)c#3<{",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfapyridin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "Ab4HWJ6:rd",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfaguanol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "mtho!a(Fxt",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfaethidol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Kurzzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "oo4tK3~^z)",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": []
                                 },
@@ -4705,11 +4603,13 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Metronidazol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Nitroimidazol-Derivate</b><div>bakterizid<br><div>NItratgr reduziert zu Hydroxylamingr -&gt; Bldg von DNA-Addukten -&gt; Strangbrüche</div></div>"
+                                        "<div><b>Klasse:&nbsp;Nitroimidazole</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid</b></div><div><div><div>Bildung mutagener Metabolite der Nitrogruppe unter Sauerstoffmangel/reduktivem Stoffwechsel</div></div><div><br></div></div><div><b>Indikationen:</b></div><div><div>Anaerobier<br></div><div>Trichomonaden</div><div>Lamblien&nbsp;</div><div>Amöben</div></div><div><br></div><div><b>KI:</b></div><div><font color=\"#fc0107\">SS (O<sub>2</sub>-Mangel des Feutus)</font></div><div><br></div><div><b>UAW:</b></div><div><div>Gastrointestinale Beschwerden</div><div>Kopfschmerz, Schwindel&nbsp;</div><div>Ataxie</div><div>Periphere Neuropathien&nbsp;</div><div>Antabus-Syndrom</div></div><div>Urinfärbung (rot-braun)</div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Verteilungsraum: gute Gewebeverteilung</div></div><div>Metabolismus: hepatisch</div><div>Elimination: nierenunabhägig<br></div><div>HWZ: 6-8 h&nbsp;</div>"
                                     ],
                                     "guid": "x:$C~9]fHp",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Nitroimidazole"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4735,11 +4635,13 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Nitrofurantoin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib.</b><div>Reaktion zu reaktiven Metaboliten -&gt; DNA-Schaden</div>"
+                                        "<div><b>Klasse:&nbsp;Nitroimidazole</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakteriostatisch</b></div><div><div><div>Bildung mutagener Metabolite der Nitrogruppe unter Sauerstoffmangel/reduktivem Stoffwechsel</div></div><div><br></div></div><div><b>Indikationen:</b></div><div><div>HWI</div></div><div><br></div><div><b>KI:</b></div><div><font color=\"#fc0107\">SS (O<sub>2</sub>-Mangel des Feutus)</font></div><div><br></div><div><b>UAW:</b></div><div><div><div>Allergische Reaktionen</div><div>Gastrointestinale Störungen</div><div>ZNS-Symptomatik</div><div>Hämatologische Störungen</div><div>Lugenfibrose (Daueranwendung)</div><div></div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Elimination: renal<br></div><div>HWZ: 20 min&nbsp;</div>"
                                     ],
                                     "guid": "HLP1Mr>rQi",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Nitroimidazole"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -5545,6 +5447,90 @@
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": [
                                         "Anthelmintika"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Clorobiocin",
+                                        "<b>Klasse: Gyrase-Hemmer; Aminocoumarine</b><div><div><b><br></b></div><div><b>Wirkung:&nbsp;</b><b>bakteriostatisch</b></div><div>Hemmung der Topoisomerase-II über Hemmung der ATP-Bindung am Enzym</div></div>"
+                                    ],
+                                    "guid": "cFKn:]X{+d",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Gyrase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Coumermycin",
+                                        "<b>Klasse: Gyrase-Hemmer; Aminocoumarine</b><div><div><b><br></b></div><div><b>Wirkung:&nbsp;</b><b>bakteriostatisch</b></div><div>Hemmung der Topoisomerase-II über Hemmung der ATP-Bindung am Enzym</div></div>"
+                                    ],
+                                    "guid": "GUfX?w.x<`",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Gyrase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Cyclothialidin",
+                                        "<b>Klasse: Gyrase-Hemmer; Aminocoumarine</b><div><div><b><br></b></div><div><b>Wirkung:&nbsp;</b><b>bakteriostatisch</b></div><div>Hemmung der Topoisomerase-II über Hemmung der ATP-Bindung am Enzym</div></div>"
+                                    ],
+                                    "guid": "w;8t*J4r:g",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Gyrase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Novobiocin",
+                                        "<b>Klasse: Gyrase-Hemmer; Aminocoumarine</b><div><div><b><br></b></div><div><b>Wirkung:&nbsp;</b><b>bakteriostatisch</b></div><div>Hemmung der Topoisomerase-II über Hemmung der ATP-Bindung am Enzym</div></div>"
+                                    ],
+                                    "guid": "fy_e#?(LTk",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Gyrase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Rutin",
+                                        "<b>Klasse: Gyrase-Hemmer; Aminocoumarine</b><div><div><b><br></b></div><div><b>Wirkung:&nbsp;</b><b>bakteriostatisch</b></div><div>Hemmung der Topoisomerase-IV</div></div>"
+                                    ],
+                                    "guid": "AMCWyco:1r",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Gyrase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Clerocidin",
+                                        "<b>Klasse: Gyrase-Hemmer; Aminocoumarine</b><div><div><b><br></b></div><div><b>Wirkung:&nbsp;</b><b>bakteriostatisch</b></div><div>Hemmung der Topoisomerase-IV</div></div>"
+                                    ],
+                                    "guid": "w!w9_h:wi]",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Gyrase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfonamide",
+                                        "<div><b>Klasse:&nbsp;</b>Sulfonamide</div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakteriostatisch</b></div><div><div><div>Bakterielle DNA/RNA-Synthese-Störung: Antimetabolit (p-Aminobenzoesäure-Analogon) in der Synthese der Tetrahydrofolsäure&nbsp;</div><div>Mensch unempfindlich, da keine edogene Folsäure-Synthese = Vitamin</div></div><div><br></div></div><div><b>Indikationen:</b></div><div><div>Nokardien</div><div>Chlamydien</div><div>Yersinien</div><div>Atypische Mykobakterien</div><div>Protozoen</div></div><div><br></div><div><b>Frühere Einteilung:</b></div><div>Kurzzeitig: Sulfaethidol (CAVE: Metabolismus und Elimination kritisch)</div><div>Mittellang: Sulfadiazidin, Sulfamethoxazol</div><div>Langzeit: Sulfalen, Sulfadoxin</div><div>Schwer resorbierbar zur Darmdesinfektion: Sulfaguanol, Sulfasalazin</div><div><br></div><div><b>UAW:</b></div><div><div><div><div>hohes allergenes Potential</div><div>Phototoxizität</div><div>Nephrotoxizität (ältere Formen)</div><div>Verdrängung aus Plasmaproteinbindungen (Neugeborene - Bilirubin)</div><div>Wegen Resistenzentwicklung nur noch wenige Sulfonamide in Gebrauch</div><div></div></div><div></div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Orale Bioverfügbarkeit: gut</div><div>Metabolisierung: hepatisch</div><div>Elimination: renal</div></div>"
+                                    ],
+                                    "guid": "gah!5n8`mY",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Sulfonamide"
                                     ]
                                 }
                             ]
@@ -8863,7 +8849,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Anthelmintika"
+                "Sulfonamide"
             ],
             "tmpls": [
                 {
