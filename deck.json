@@ -4381,13 +4381,14 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Streptomycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Aminoglykoside</b><div>Bdg. an 30S-ribosomale UE -&gt; Fehlsteuerung d. Proteinsynthese</div><div>! bakterizid !</div>"
+                                        "Streptomycin (SM)",
+                                        "<b>Klasse: Antituberkulotika; Klasse 2</b><div><div><br></div><div>Besonderheit bei TBC:</div><div><div>gute Sauerstoffversorgung der Keime </div><div>für zellul. Aufnahme unterstützend –</div><div>bei offener Tbc gut wirksam;</div><div>1x tgl. Gabe auch bei Tbc;</div><div>eher Vestibularschädigung als Hörst.</div><div>tgl. alternierende Gabe mit Ethambutol?</div></div></div>"
                                     ],
                                     "guid": "oCmg2=Dg3Z",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": [
-                                        "Aminoglykoside"
+                                        "Aminoglykoside",
+                                        "Antituberkulotika"
                                     ]
                                 },
                                 {
@@ -4669,22 +4670,26 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Rifampicin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Rifampicin<br></b><div>! bakterizid</div><div>RNA-Polymerase-Hemmung</div>"
+                                        "Rifampicin (RMP)",
+                                        "<div><b>Klasse:&nbsp;Antituberkulotika; Klasse 1</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid</b> bei proliferierenden Keimen; auch bei (fast) ruhenden Keimen</div><div>Hemmung der RNA-Polymerase&nbsp;</div><div><br></div><div><b>Indikationen:</b></div><div>TBC-Infektion</div><div>&nbsp;</div><div><b>UAW:</b></div><div><div><font color=\"#21ff06\">relativ gut verträglich</font></div><div>Gastrointestinale Störungen</div><div>Hepato-Toxizität (Transaminasen-Anstieg)</div><div>Neurotoxizität (Kopfschmerz, Ataxie)</div><div>Exantheme</div><div>Urinverfärbung: orange-rot</div><div>Blutbildveränderungen</div><div>Interstitielle Nephritis</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Verteilungsraum: gute Gewebeverteilung</div><div>Metabolismus: Induktor von CYP 3A4, 2C19 und 2C9</div><div>HWZ: 3 - 5 h (sinkt unter Daueranwendug durch Enzyminduktion)</div>"
                                     ],
                                     "guid": "BuX/@Me]*l",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Antituberkulotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Rifabutin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Rifampicin;&nbsp;</b><b>Antituberkulotika bei atypischen Mykobakteriosen</b><b><br></b><div>! bakterizid</div><div>RNA-Polymerase-Hemmung</div>"
+                                        "<div><b>Klasse:&nbsp;Antituberkulotika; Klasse 1</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid</b>&nbsp;bei proliferierenden Keimen; auch bei (fast) ruhenden Keimen</div><div>Hemmung der RNA-Polymerase&nbsp;</div><div><br></div><div><b>Indikationen:</b></div><div>Atypische Mykobakterien</div><div>MRSA</div><div>&nbsp;</div><div><b>UAW:</b></div><div><div><font color=\"#21ff06\">relativ gut verträglich</font></div><div>Gastrointestinale Störungen</div><div>Hepato-Toxizität (Transaminasen-Anstieg)</div><div>Neurotoxizität (Kopfschmerz, Ataxie)</div><div>Exantheme</div><div>Urinverfärbung: orange-rot</div><div>Blutbildveränderungen</div><div>Interstitielle Nephritis</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Struktur: Analgon zu Rifampicin</div><div>Verteilungsraum: gute Gewebeverteilung</div><div>Metabolismus: Induktor von CYP 3A4, 2C19 und 2C9</div><div>HWZ: <font color=\"#fc0107\">35 - 40h</font> (sinkt unter Daueranwendug durch Enzyminduktion)</div>"
                                     ],
                                     "guid": "uZP5wBMIB)",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Antituberkulotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4830,101 +4835,97 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Albendazol",
-                                        "<b>Anthelmintika</b>"
+                                        "<div><b>Klasse:&nbsp;Anthelmintika</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b><b>vermizid</b></div><div><div>Hemmung der Wurmperistaltik:Tubulin-Bindung  mit Hemmung der Polymerisation; Hemmung der Glukoseaufnahme</div></div><div><br></div><div><b>Wirkspektrum:</b></div><div>Würmer</div><div>nicht gegen Eier oder Larven</div><div>&nbsp;</div><div><b>UAW:</b></div><div><div>gute Verträglichkeit&nbsp;</div><div>Gastrointestinale Symptome&nbsp;</div><div>bei hohen Konzentrationen: Haarausfall, Neutropenie und Transaminasenanstiege (systemische Wirkung)</div></div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Resorption:&nbsp;geringe Resorptionsrate (für systemische Wirkung mit fettreicher Nahrung kombinieren)</div>"
                                     ],
                                     "guid": "O{24IIZF#0",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Anthelmintika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Mebendazol",
-                                        "<b>Anthelmintika</b>"
+                                        "<div><b>Klasse:&nbsp;Anthelmintika</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b><b>vermizid</b></div><div><div>Hemmung der Wurmperistaltik:Tubulin-Bindung mit Hemmung der Polymerisation; Hemmung der Glukoseaufnahme</div></div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Würmer</div><div>nicht gegen Eier oder Larven</div><div>&nbsp;</div><div><b>UAW:</b></div><div><div>gute Verträglichkeit&nbsp;</div><div>Gastrointestinale Symptome&nbsp;</div><div>bei hohen Konzentrationen: Haarausfall, Neutropenie und Transaminasenanstiege (systemische Wirkung)</div></div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Resorption:&nbsp;geringe Resorptionsrate (für systemische Wirkung mit fettreicher Nahrung kombinieren)</div>"
                                     ],
                                     "guid": "cmHS([k(&O",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Anthelmintika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Praziquantel",
-                                        "<b>Anthelmintika</b>"
+                                        "<div><b>Klasse:&nbsp;Anthelmintika</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;</b><b>vermizid</b></div><div><div>Schädigung der Außenhülle (Tegument) des Wurmes; Dauerdepolarisation mit spastischer Paralyse mit Verlust der Verankerung in der Darmschleimhaut</div></div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Würmer</div><div>nicht gegen Eier oder Larven</div><div>&nbsp;</div><div><b>UAW:</b></div><div><div>gute Verträglichkeit</div><div>GIT: Bauchschmerzen, Übelkeit</div><div>Kopfschmerzen</div><div>Urtikaria</div></div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div><div>Verteilung: gute Gewebeverteilung</div><div>Metabolisierung: fast vollständig</div><div> HWZ: 1-1,5 h</div></div>"
                                     ],
                                     "guid": "bf7x{8LK#_",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Anthelmintika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Niclosamid",
-                                        "<b>Anthelmintika</b>"
+                                        "<div><b>Klasse:&nbsp;Anthelmintika</b></div><div><br></div><div><b>Wirkung:&nbsp;</b><b>vermizid</b></div><div><div>Hemmung der Glukoseaufnahme und oxidativer Phosphorylierung; Verlust des Schutzes vor</div><div>Darmenzymen</div></div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Würmer</div><div>nicht gegen Eier oder Larven</div><div>&nbsp;</div><div><b>UAW:</b></div><div><div>GIT: Abdominalschmerzen, Übelkeit</div><div>Verlangsamtes Reaktionsvermögen</div></div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div><div>Resorption: Kaum Resorption nach oraler Gabe</div><div>Applikation: i.v.</div><div>Interaktionen: unbekannt</div></div>"
                                     ],
                                     "guid": "Kp~uQecNkj",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Anthelmintika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Isoniazid (INH)",
-                                        "<b>Antituberkulotika 1. Wahl</b><div>oral</div><div>-&gt; zu Isonikotinsäure -&gt; Mykolsäure-Synthesedeftek -&gt; zerstört DNA, Kohlenhydrate, Lipide</div>"
+                                        "<div><b>Klasse:&nbsp;Antituberkulotika; Klasse 1</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;tuberkulozid</b>&nbsp;bei proliferierenden Keimen</div><div><div>Hemmung der Mykolsäureproduktion + Zerstörung: Aktivierung durch Peroxidase/Katalase und Verbindung mit NAD/NADP; dann Hemmung der Enoylreduktase durch INH-NAD und</div><div>Dihydrofolat-Reduktase (INH-NADP)</div></div><div><br></div><div><b>Indikationen:</b></div><div>TBC-Infektion</div><div>CAVE: wegen Resistenzen nur als <font color=\"#fc0107\">Kombipräparat</font></div><div>&nbsp;</div><div><b>UAW:</b></div><div><div><font color=\"#21ff06\">gute Gewebeverträglichkeit</font></div><div><div><div>Neuro-Toxizität (INH bindet Vitamin B6 mit Mangelerscheinung; Prophylaxe: Substitution von Pyridoxin/Vitamin B6)</div><div>Hepato-Toxizität (Metabolismus von INH über NAT2 und Monooxygenasen zum Radikal)</div><div>Exantheme<br></div><div></div></div><div></div>Alkoholunverträglichkeit</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Ineraktionen: poor vs. rapid Metabolizer (Acetylierung)</div><div>Metabolismus: Hemmer von CYP 3A4, 2C19 und 2D6; Induktion von CYP 2E1</div><div>HWZ: 20 min</div>"
                                     ],
                                     "guid": "M9d6L&)y_B",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Antituberkulotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Pyrazinamid (PZA)",
-                                        "<b>Antituberkulotika 1. Wahl</b><div>oral</div>"
+                                        "<div><b>Klasse:&nbsp;Antituberkulotika; Klasse 1</b></div><div>&nbsp;</div><div><b>Wirkung: tuberkulozid</b></div><div><div>Hemmung der Mykolsäureproduktion: Deaminierung zur Carbonsäure und dann Hemmung der Fettsäuresynthase I; Hemmung der Proteinsynthese für „ruhende“ Keime&nbsp;</div></div><div><br></div><div><b>Indikationen:</b></div><div><div>Mycobakterium tuberculosis (in saurem Milieu)</div><div>CAVE: Resistenzentwicklung (Kombinationstherapie)</div></div><div>&nbsp;</div><div><b>UAW:</b></div><div><div><div>Hepatotoxizität: Transaminasenanstiege</div><div>Hyperurikämie</div><div>selten: Störung von Blutbildung, NNR-hormone, SD-hormone, diabetogen, Photosensibilisierungen</div><div></div></div><div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Verteilung: gute Gewebeverteilung</div><div>HWZ: 9-10 h</div>"
                                     ],
                                     "guid": "EMk}o6_b<a",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Rifampicin (RMP)",
-                                        "<b>Antituberkulotika 1. Wahl</b><div>oral</div>"
-                                    ],
-                                    "guid": "J749n?5T?N",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Antituberkulotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Ethambutol (EMB)",
-                                        "<b>Antituberkulotika 1. Wahl;&nbsp;</b><b>Antituberkulotika bei atypischen Mykobakteriosen</b><div>oral</div>"
+                                        "<div><b>Klasse:&nbsp;Antituberkulotika; Klasse 1</b></div><div>&nbsp;</div><div><b>Wirkung: tuberkulostatisch</b> auf proliferierende Keime, hohe Konzentration auch <b>bakterizid</b></div><div><div>Hemmung der Mykolsäureproduktion: Hemmung der Arabinosyl-Transferase III</div></div><div><br></div><div><b>Indikationen:</b></div><div>TBC-Infektion</div><div>CAVE: wegen Resistenzen nur als&nbsp;<font color=\"#fc0107\">Kombipräparat</font></div><div>&nbsp;</div><div><b>UAW:</b></div><div><div><div>gute Verträglichkeit</div><div>Neurolgisch: Brechreiz, Kopfschmerz</div><div>bei Überdosierung: Schädigung N. opticus (Visuskontrolle vor Therapiebeginn!)</div><div>Störungen von Sehschärfe, Gesichtsfeld oder Farbsehen</div><div>Hyperurikämien</div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Verteilung: gute Gewebeverteilung (bei Meningitis ausreichende Konzentration im Liquor)</div><div>Dosis: Reduktion bei Nieren- und Leberinsuffizienz nötig&nbsp;</div><div>HWZ: 4 h</div>"
                                     ],
                                     "guid": "oGGd/cl_R?",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Antituberkulotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Streptomycin (SM)",
-                                        "<b>Antituberkulotika 1. Wahl</b><div>parenteral</div>"
-                                    ],
-                                    "guid": "oEGZ)]sVP1",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Protionamid",
-                                        "<b>Antituberkulotika 2. Wahl,&nbsp;</b><b>Antituberkulotika bei atypischen Mykobakteriosen</b>"
+                                        "Protionamid (PTH)",
+                                        "<div><b>Klasse:&nbsp;Antituberkulotika; Klasse 2</b></div><div>&nbsp;</div><div><b>Wirkung: tuberkulozid&nbsp;</b>bei proliferierenden Keimen</div><div><div>Hemmung der Mykolsäureproduktion: nach H<sub>2</sub>S-Abspaltung INH-ähnliche Effekte&nbsp;</div><div>INH: Aktivierung durch Peroxidase/Katalase und Verbindung mit NAD/NADP; dann Hemmung der Enoylreduktase durch INH-NAD und Dihydrofolat-Reduktase (INH-NADP)</div></div><div><br></div><div><b>Indikationen:</b></div><div>Alternative zum Isoniazid (INH)</div><div>&nbsp;</div><div><b>UAW:</b></div><div><div><div><div>Neurotoxizität: Krampfanfälle?&nbsp;</div><div>VitaminB6-Mangel</div><div>Hepatotoxizität: Gerinnungsstörungen</div></div><div></div></div><div></div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div>Verteilung: gute Gewebeverteilung</div>"
                                     ],
                                     "guid": "xv0xynq4<d",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Antituberkulotika"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4933,26 +4934,6 @@
                                         "<b>Antituberkulotika 2. Wahl</b>"
                                     ],
                                     "guid": "B|p~h}qLJ=",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Terizidon",
-                                        "<b>Antituberkulotika 2. Wahl</b>"
-                                    ],
-                                    "guid": "Iy%Hf5BJqq",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "p-Aminosalicylsäure",
-                                        "<b>Antituberkulotika 2. Wahl</b>"
-                                    ],
-                                    "guid": "H5I,zj|T(L",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": []
                                 },
@@ -5552,6 +5533,18 @@
                                     "tags": [
                                         "beta-Laktam-Antibiotika",
                                         "Neue-Cephalosporine"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ivermectin",
+                                        "<div><b>Klasse:&nbsp;Anthelmintika</b></div><div><br></div><div><b>Wirkung:&nbsp;</b><b>vermizid</b></div><div>Lähmung: Aktivierung von Glutamat-abh. Cl<sup>-</sup>-Kanälen mit Hyperpolarisation und Paralyse</div><div>&nbsp;</div><div><b>Wirkspektrum:</b></div><div>Würmer</div><div>nicht gegen Eier oder Larven</div><div><br></div><div><font color=\"#fc0107\">Besonderheit: Hemmung der Viruslast bei COVID-19 in vitro</font></div><div>&nbsp;</div><div><b>UAW:</b></div><div><div>in hohen Dosen: zentrale Wirkung ähnlich Barbituraten an GABA<sub>A</sub>-Cl<sup>-</sup>-Kanälen und Glycin-Rezeptoren</div></div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div><div>Eigenschaft: sehr lipophil</div><div>Resorption: gut; auch dermal</div><div>Verteilung: gut (ZNS nur in hohen Dosen)</div><div>HWZ: 18 h</div></div><div>Abbau: CYP 3A4 und MDR-Substrat</div>"
+                                    ],
+                                    "guid": "nVH^/a3ir!",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Anthelmintika"
                                     ]
                                 }
                             ]
@@ -8870,9 +8863,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "beta-Laktam-Antibiotika",
-                "Neue",
-                "Cephalosporine"
+                "Anthelmintika"
             ],
             "tmpls": [
                 {
