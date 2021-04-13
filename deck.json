@@ -4230,41 +4230,49 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Erythromycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Makrolide</b><div>Hemmung der Translokation (Weiterrücken Ribosom an mRNA)</div>"
+                                        "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><b>Besonderheit: Motilin-Rezeptor-Agonist = Pro-Kinetikum</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div>\n<div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div>\n<div>&nbsp;<br><br></div>\n<div><b>Indikationen:</b></div>\n<div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div>\n<div>&nbsp;</div>\n<div><br><b>UAW:</b><br></div>\n<div>gastrointestinale Störungen einschl. Cholestase<br>QT-Zeit Verlängerungen<br><b>Hemmung von P450-Isoenzymen (3A4)!</b><br>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div>\n<div>Applikationsform: i.v.</div>\n<div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div>\n<div>Metabolismus: hepatische Metabolisierung</div>\n<div>Elimination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div>\n<div>HWZ: 1,7h</div>"
                                     ],
                                     "guid": "BkQiA07~z/",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Makrolide"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Clarithromycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Makrolide;&nbsp;</b><b>Antituberkulotika bei atypischen Mykobakteriosen</b><div>Hemmung der Translokation (Weiterrücken Ribosom an mRNA)</div>"
+                                        "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch, (auch bakterizid in hohen Dosen)&nbsp;</b></div><div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><b>Besonderheit: stärkere Hemmung der eigenen Metabolisierung d. P450 3A4-Hemmung! (QT-Zeit ++)</b></div><div>&nbsp;</div><div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div><div>&nbsp;</div><div><br><b>UAW:</b><br></div><div>gastrointestinale Störungen einschl. Cholestase<br><b>QT-Zeit Verlängerungen</b><br><b>Hemmung von&nbsp;P450-Isoenzymen (3A4)!</b><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div><div>Applikationsform: i.v.</div><div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div><div>Metabolismus: hepatische Metabolisierung</div><div>Elemination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div>"
                                     ],
                                     "guid": "Nh$I|hJTe",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Makrolide"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Roxithromycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Makrolide</b><div>Hemmung der Translokation (Weiterrücken Ribosom an mRNA)</div>"
+                                        "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch, (bakterizid </b>in hohen Dosen)</div><div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><br></div><div>&nbsp;</div><div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div><div>&nbsp;</div><div><br><b>UAW:</b><br></div><div>gastrointestinale Störungen einschl. Cholestase<br>QT-Zeit Verlängerungen<br><b>Hemmung von&nbsp;P450-Isoenzymen (3A4)!</b><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div><div>Applikationsform: i.v.</div><div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div>"
                                     ],
                                     "guid": "l<mQD&W_Tw",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Makrolide"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Azithromycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Makrolide;&nbsp;</b><b>Antituberkulotika bei atypischen Mykobakteriosen</b><div>Hemmung der Translokation (Weiterrücken Ribosom an mRNA)</div>"
+                                        "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch</b></div><div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><br></div><div>&nbsp;</div><div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div><div>&nbsp;</div><div><br><b>UAW:</b><br></div><div>gastrointestinale Störungen einschl. Cholestase<br>QT-Zeit Verlängerungen<br><b>Hemmung von&nbsp;P450-Isoenzymen (3A4)!</b><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div><div>Applikationsform: i.v.</div><div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div><div>HWZ: 40h - <i><b>meist 3-tägige Therapie ausreichen!</b></i></div>"
                                     ],
                                     "guid": "rwGLAOl|VY",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Makrolide"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4280,21 +4288,25 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Azalid",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Makrolide</b><div>Hemmung der Translokation (Weiterrücken Ribosom an mRNA)</div>"
+                                        "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch</b></div><div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><br></div><div>&nbsp;</div><div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div><div>&nbsp;</div><div><br><b>UAW:</b><br></div><div>gastrointestinale Störungen einschl. Cholestase<br>QT-Zeit Verlängerungen<br><b>Hemmung von&nbsp;P450-Isoenzymen (3A4)!</b><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div><div>Applikationsform: i.v.</div><div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div><div>HWZ: 40h -&nbsp;<i><b>meist 3-tägige Therapie ausreichen!</b></i></div>"
                                     ],
                                     "guid": "vA`[}l;{V9",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Makrolide"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Telithromycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Makrolide</b><div>Hemmung der Translokation (Weiterrücken Ribosom an mRNA)</div>"
+                                        "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch, </b>(<b>bakterizid </b>in hohen Dosen)</div><div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><br><b>Besonderheit: <br>zweite Bindungsstelle an 50S-UE = weniger Resistenzen!&nbsp;<br>anticholingerge</b> Komponente - Cave: <b>KI Myasthenia gravis!</b></div><div>&nbsp;<br><br></div><div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div><div>&nbsp;</div><div><br><b>UAW:</b><br></div><div>gastrointestinale Störungen einschl. Cholestase<br>QT-Zeit Verlängerungen<br><b>Hemmung von&nbsp;P450-Isoenzymen (3A4)!<br></b><i>Besonderheit: anticholingerge Komponente &gt; Sehstörungen, <b>vagale Synkopen, KI Myasthenia gravis!</b></i><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div><div>Applikationsform: i.v.</div><div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div><div>HWZ: 10h</div>"
                                     ],
                                     "guid": "A83a?GI!C9",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Makrolide"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4320,17 +4332,19 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Clindamycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Lincosamide</b><div>Blockade d. Rkt von Aminoacyl-tRNA mit Peptidyltransferase -&gt; Translokationshemmung</div>"
+                                        "<div><b>Klasse:&nbsp;</b><b>Lincosamide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch</b></div><div><b>Benachbarte Bindungsstelle zu Makroliden:&nbsp;</b>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><b>Makrolide vs. Lincosamide: antagonistische Kombinationseffekte, weitgehende Parallelresistenzen</b><br></div><div><br></div><div><b>Wirkspektrum:&nbsp;</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>und&nbsp;<span style=\"color: red;\">gramnegative&nbsp;</span>anaerobe Stäbchen</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Endokarditisprophylaxe bei Penicillin-Allergie<br>Infekte mit Anaerobiern<br>Osteomyelitis-Nachbehandlung</div><div><br><b>UAW:</b><br></div><div><b>pseudomembranöse Enterokolitis </b>(C. difficile ist resistent)<br>Thrombopenie<br>Leukopenie<br>Transaminasenanstiege<b><br>neuromuskuläre Blockade mögl.</b><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: orale Bioverfügbarkeit ~90%</div><div>Applikationsform: p.o., i.v., lokal</div><div>Verteilungsraum: gute Verteilung im Gewebe - <b>hohe Konzentration in Knochen!</b><i style=\"\"> (Zahnärzte)</i></div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;</div><div>HWZ: 2-3h</div>"
                                     ],
                                     "guid": "x{&hD?6m>%",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Lincosamide"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Lincomycin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Lincosamide</b><div>Blockade d. Rkt von Aminoacyl-tRNA mit Peptidyltransferase -&gt; Translokationshemmung</div>"
+                                        "Lincomycin (a.H.)",
+                                        "<div><b>Präparat außer Handel </b>- da <b>Clindamycin</b> je Keim 2-10fach aktiver (geringere Dosis notwendig)<br><br><b>Klasse:&nbsp;Lincosamide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch</b></div><div><b>Benachbarte Bindungsstelle zu Makroliden:&nbsp;</b>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><b>Makrolide vs. Lincosamide: antagonistische Kombinationseffekte, weitgehende Parallelresistenzen</b><br></div><div><br></div><div><b>Wirkspektrum:&nbsp;</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>und&nbsp;<span style=\"color: red;\">gramnegative&nbsp;</span>anaerobe Stäbchen</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Endokarditisprophylaxe bei Penicillin-Allergie<br>Infekte mit Anaerobiern<br>Osteomyelitis-Nachbehandlung</div><div><br><b>UAW:</b><br></div><div><b>pseudomembranöse Enterokolitis&nbsp;</b>(C. difficile ist resistent)<br>Thrombopenie<br>Leukopenie<br>Transaminasenanstiege<b><br>neuromuskuläre Blockade mögl.</b><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität:&nbsp;</div><div>Applikationsform:</div><div>Verteilungsraum: gute Verteilung im Gewebe -&nbsp;<b>hohe Konzentration in Knochen!</b><i>&nbsp;(Zahnärzte)</i></div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;</div><div>HWZ:</div>"
                                     ],
                                     "guid": "zlWlc~uE{N",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4930,16 +4944,6 @@
                                     "tags": [
                                         "Antituberkulotika"
                                     ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Rifampicin (RMP)",
-                                        "<b>Antituberkulotika 1. Wahl</b><div>oral</div>"
-                                    ],
-                                    "guid": "J749n?5T?N",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -5687,6 +5691,18 @@
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": [
                                         "Sulfonamide"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Spiramycin",
+                                        "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch</b></div><div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><br></div><div>&nbsp;</div><div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div><div>&nbsp;</div><div><br><b>UAW:</b><br></div><div>gastrointestinale Störungen einschl. Cholestase<br>QT-Zeit Verlängerungen<br><b>Hemmung von&nbsp;P450-Isoenzymen (3A4)!<br></b><i>rev. Hörverlust bei hohen Dosen!</i><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div><div>Applikationsform: i.v.</div><div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div>"
+                                    ],
+                                    "guid": "ESv,JtA0i{",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Makrolide"
                                     ]
                                 }
                             ]
@@ -9005,7 +9021,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Sulfonamide"
+                "Makrolide"
             ],
             "tmpls": [
                 {
