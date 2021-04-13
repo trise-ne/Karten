@@ -3578,7 +3578,9 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "TS.png"
+                            ],
                             "name": "1.  Antiinfektiva",
                             "notes": [
                                 {
@@ -4124,11 +4126,13 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Chloramphenicol",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib.</b><div>Peptidyltransferaseinhib -&gt; keine Transacylierung</div>"
+                                        "<div><b>Klasse:&nbsp;Sonstige Antiinfektiva</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Hemmung der Peptidyltransferase bei Ausbildung der Peptidbindungen während\nder Proteinbiosynthese</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>v.a. grampositive Erreger</div>\n<div>Salmonellen</div>\n<div><b>&nbsp;</b></div>\n<div><b>Indikation:</b></div>\n<div>nur Sekundärindikationen: Salmonellenmeningitis</div>\n<div>Augensalbe (UAW nicht ausgeschlossen)</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Hämatotoxizität: Aplastische Anämie dosisunabhängig/teils dosisabhängig\nbeschrieben noch Wochen nach Therapieende</div>\n<div>Neurotoxizität: N. opticus mit Visusminderung</div>\n<div>Grey-Syndrom unter relativer Überdosierung bei Neugeborenen (Abbau über\nGlukoronidierung noch nicht ausreichend entwickelt) </div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: gute Gewebeverteilung bis in den Liquor</div>\n<div>Metabolismus: hepatisch (Glukoronidierung)</div>\n<div>Resistenzen:\nEnzyme für Metabolismus an OH-Gruppe</div>"
                                     ],
                                     "guid": "Fthp|e^!;S",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Sonstige-Antiinfektiva"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4312,11 +4316,13 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Linezolid",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib. -&gt; Oxazolidinone</b>"
+                                        "<div><b>Klasse:&nbsp;Oxazolidinone</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Hemmung der Bindung der Peptidyltransferase an 50S-Ribosom-Untereinheit\n(Initialkomplex)</div>\n<div><b>&nbsp;</b></div>\n<div><b>Wirkspektrum:</b></div>\n<div>Grampositive Erreger</div>\n<div>unabhängig von Resistenzen</div>\n<div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<b></b></div>\n<div><b><br></b></div><div><b>Indikation:</b></div>\n<div><span style=\"color: red;\">Reserveantibiotikum</span></div>\n<div>MRSA-Infektion</div>\n<div>Enterokokken-Infektion</div>\n<div>SIRS/Sepsis</div>\n<div><span style=\"color: red;\">Pneumonie (ARDS) </span></div>\n<div><br></div><div><img src=\"TS.png\"><br></div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Verträglichkeit: Strukturelle Ähnlichkeit zum Chloramphenicol, aber besser\nverträglich </div>\n<div>Hepatotoxizität: Transaminasenanstieg </div>\n<div>Myelosuppression</div>\n<div>Periphere Neuropathien</div>\n<div>Schädigung N. opticus –Erblindung auch Wochen nach Therapieende</div>\n<div>MAO-Hemmer: Interaktionen mit Neurotransmittermetabolismus</div>\n<div><b>&nbsp;</b></div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Verteilungsraum: gute Gewebeverteilung bis in den Liquor</div>\n<div>Metabolismus: Hepatisch (Clearance unabhängig von Nierenfunktion)</div>"
                                     ],
                                     "guid": "uxacWPJi1s",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Oxazolidinone"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4481,11 +4487,13 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Retapamulin",
-                                        "<b>Antibiotika -&gt; Proteinbiosyntheseinhib.</b><div>Elongationsphase gehemmt</div>"
+                                        "<div><b>Klasse:&nbsp;Pleuromutiline</b><br></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Hemmung der Ausbildung der ribosomalen 50S-UE durch Bindung an die 23S-rRNA;\ndadurch wird die Peptidyltransferase-Aktivität während der Proteinbiosynthese gehemmt</div>\n<div><b>&nbsp;</b></div>\n<div><b>Wirkspektrum:</b></div>\n<div><span style=\"color: rgb(68, 114, 196);\">grampositive Erreger</span></div>\n<div><b>&nbsp;</b></div>\n<div><b>Indikation: </b>topische Anwendung </div>\n<div>Impetigo contagiosa (Borkenflechte)<b></b></div>\n<div>Infizierten Hautverletzungen</div>\n<div>Schürfwunden</div>\n<div>Genähten Wunden</div>\n<div><b>&nbsp;</b></div>\n<div><b>UAW:</b></div>\n<div>Starker CYP3A4-Inhibitor, aber unter topischer Anwendung Plasmakonzentration\nzu gering</div>\n<div>&nbsp;</div>\n<div><b>Besonderheiten:</b></div>\n<div>Zulassung 2007</div>\n<div>Resistenzspektrum durch neuen Wirkmechanismus geringer</div>"
                                     ],
                                     "guid": "n^M%N~z-iT",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Pleuromutiline"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4534,26 +4542,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Ofloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "u.(]MMH>1D",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Enoxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "E}9p`&>>Gi",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Fluroxacin",
                                         "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
                                     ],
@@ -4572,16 +4560,6 @@
                                     "tags": [
                                         "Fluorchinolone"
                                     ]
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Delafloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 3</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "D<t^,8hNrm",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
@@ -4608,102 +4586,26 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Sulfadiazin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "OdslgP49;i",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfamerazin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "si%S;9$vv@",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfamethoxazol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "LpShAm.,NO",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfalen",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "h)(|MBicwo",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfadioxin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "Hfya)c#3<{",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfapyridin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "Ab4HWJ6:rd",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfaguanol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "mtho!a(Fxt",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfaethidol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Kurzzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "oo4tK3~^z)",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Trimethoprim",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Diaminopyrimidine</b><div>bakteriostatisch<b><br></b><div>FRH (Folsäure-Reuptake-Inhibitoren)</div><div>! oft Kombi mit Mittelzeitsulfonamiden !</div></div>"
+                                        "<div><b>Klasse:&nbsp;Folsäure-Reduktase-Hemmer</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b></div>\n<div>Hemmung der Dihydrofolat-Reduktase für Prokaryonten und Eukaryonten; Synergismus\nin Kombination mit Sulfonamiden</div>\n<div><b>&nbsp;</b></div>\n<div><b>Kombination: </b></div>\n<div>Sulfamethoxazol + Trimethoprim = Cotrimoxazol</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Infektionen diverser Organsysteme:</div>\n<div>z.B. Niere und Harnwege (2. Wahl bei unkomplizierter Urozystitis) </div>\n<div>&nbsp;</div>\n<div><b>KI:</b></div>\n<div><span style=\"color: red;\">Schwangerschaft</span></div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Hepatotoxizität </div>\n<div>Hämatotoxizität</div>\n<div>Hemmung von CYP2C8/9 </div>\n<div>hohe Dosen: Hyperkaliämie</div>"
                                     ],
                                     "guid": "vE{1C!W4n@",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Folsäure-Reduktase-Hemmer"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
                                     "fields": [
                                         "Tetroxoprim",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Diaminopyrimidine</b><div>bakteriostatisch<br><div>FRH (Folsäure-Reuptake-Inhibitoren)</div><div>! oft Kombi mit Mittelzeitsulfonamiden !</div></div>"
+                                        "<div><b>Klasse:&nbsp;Folsäure-Reduktase-Hemmer</b><br></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b></div>\n<div>Hemmung der Dihydrofolat-Reduktase für Prokaryonten und Eukaryonten; Synergismus\nin Kombination mit Sulfonamiden</div>\n<div>&nbsp;</div>\n<div><b>Indikationen:</b></div>\n<div>Infektionen diverser Organsysteme:</div>\n<div>z.B. Niere und Harnwege (2. Wahl bei unkomplizierter Urozystitis) </div>\n<div>&nbsp;</div>\n<div><b>KI:</b></div>\n<div><span style=\"color: red;\">Schwangerschaft</span></div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Hepatotoxizität </div>\n<div>Hämatotoxizität</div>\n<div>Hemmung von CYP2C8/9 </div>\n<div>hohe Dosen: Hyperkaliämie</div>"
                                     ],
                                     "guid": "NNkQC#.Z^:",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
+                                    "tags": [
+                                        "Folsäure-Reduktase-Hemmer"
+                                    ]
                                 },
                                 {
                                     "__type__": "Note",
@@ -4976,26 +4878,6 @@
                                         "<b>Antituberkulotika 2. Wahl</b>"
                                     ],
                                     "guid": "B|p~h}qLJ=",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Terizidon",
-                                        "<b>Antituberkulotika 2. Wahl</b>"
-                                    ],
-                                    "guid": "Iy%Hf5BJqq",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "p-Aminosalicylsäure",
-                                        "<b>Antituberkulotika 2. Wahl</b>"
-                                    ],
-                                    "guid": "H5I,zj|T(L",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": []
                                 },
@@ -5696,6 +5578,136 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
+                                        "Ofloxacin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                    ],
+                                    "guid": "u.(]MMH>1D",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Enoxacin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                    ],
+                                    "guid": "E}9p`&>>Gi",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Delafloxacin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 3</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                    ],
+                                    "guid": "D<t^,8hNrm",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfadiazin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "OdslgP49;i",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfamerazin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "si%S;9$vv@",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfamethoxazol",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "LpShAm.,NO",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfalen",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "h)(|MBicwo",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfadioxin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "Hfya)c#3<{",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfapyridin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "Ab4HWJ6:rd",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfaguanol",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "mtho!a(Fxt",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfaethidol",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Kurzzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "oo4tK3~^z)",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Terizidon",
+                                        "<b>Antituberkulotika 2. Wahl</b>"
+                                    ],
+                                    "guid": "Iy%Hf5BJqq",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "p-Aminosalicylsäure",
+                                        "<b>Antituberkulotika 2. Wahl</b>"
+                                    ],
+                                    "guid": "H5I,zj|T(L",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
                                         "Spiramycin",
                                         "<div><b>Klasse:&nbsp;</b><b>Makrolide</b></div><div>&nbsp;</div><div><b>Wirkung: bakteriostatisch</b></div><div>Hemmung der Translokation der Peptidyl-tRNA an 50S-Untereinheit<br><br></div><div>&nbsp;</div><div><b>Wirkspektrum: \"Penicllin-Alternative\"</b></div><div><span style=\"color: blue;\">grampositive&nbsp;</span>Keime<br><span style=\"color: red;\">gramnegative&nbsp;&nbsp;</span>Kokken<br>Anaerobier<br>zellwandlose Keim (Chlamydien, Mykoplasmen)<br>Treponema<br>Borrelien<br>Campylobacter<br>Bordetella<br>Legionellen<br>Hämophilus&nbsp;</div><div>&nbsp;<br><br></div><div><b>Indikationen:</b></div><div>Penicillin-Allergie&nbsp;<br>insgesamt gute Verträglichkeit<br></div><div>&nbsp;</div><div><br><b>UAW:</b><br></div><div>gastrointestinale Störungen einschl. Cholestase<br>QT-Zeit Verlängerungen<br><b>Hemmung von&nbsp;P450-Isoenzymen (3A4)!<br></b><i>rev. Hörverlust bei hohen Dosen!</i><br>&nbsp;</div><div>&nbsp;</div><div><b>Pharmakokinetik:</b></div><div>Säurelabilität: Instabilitätsgruppen für Wirkung essentiell (besser i.v. - Applikation)</div><div>Applikationsform: i.v.</div><div>Verteilungsraum: gute Verteilung im Gewebe (auch gg. intrazelluläre Keime), schlecht liqourgängig</div><div>Metabolismus: hepatische Metabolisierung</div><div>Elimination:&nbsp;(variable) biliäre Elimination in teils wirksamer Form</div>"
                                     ],
@@ -5703,6 +5715,42 @@
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": [
                                         "Makrolide"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Pyrimethamin",
+                                        "<div><b>Klasse:&nbsp;Folsäure-Reduktase-Hemmer</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b></div>\n<div>Hemmung der Dihydrofolat-Reduktase für Prokaryonten und Eukaryonten; Synergismus\nin Kombination mit Sulfonamiden</div>\n<div><b>&nbsp;</b></div>\n<div><b>Kombination/Indikation: </b></div>\n<div>Malariatherapie: Sulfadoxin +\nPyrimethamin = Fansidar </div>\n<div>Toxoplasmosetherapie: Sulfadiazin + Pyrimethamin </div>\n<div>&nbsp;</div>\n<div><b>KI:</b></div>\n<div><span style=\"color: red;\">Schwangerschaft</span></div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Hepatotoxizität </div>\n<div>Hämatotoxizität</div>\n<div>Hemmung von CYP2C8/9 </div>\n<div>hohe Dosen: Hyperkaliämie</div>"
+                                    ],
+                                    "guid": "d=eLguHz,[",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Folsäure-Reduktase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Methotrexat",
+                                        "<div><b>Klasse:&nbsp;Folsäure-Reduktase-Hemmer</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: </b></div>\n<div>Hemmung der Dihydrofolat-Reduktase für Prokaryonten und Eukaryonten; Synergismus\nin Kombination mit Sulfonamiden</div>\n<div><b>&nbsp;</b></div>\n<div><b>Indikation*: </b></div>\n<div>Schwere, aktive rheumatoide Arthritis</div>\n<div>Polyarthritische Formen der schweren, aktiven juvenilen idiopathischen\nArthritis</div>\n<div>Schwere und generalisierte Psoriasis vulgaris</div>\n<div>Leichte - mittelschwere Morbus Crohn</div>\n<div>&nbsp;</div>\n<div>* bei Nichtansprechen auf herkömmliche Therapieformen</div>\n<div>&nbsp;</div>\n<div><b>KI:</b></div>\n<div><span style=\"color: red;\">Schwangerschaft</span></div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Hepatotoxizität </div>\n<div>Hämatotoxizität</div>\n<div>Hemmung von CYP2C8/9 </div>\n<div>hohe Dosen: Hyperkaliämie</div>"
+                                    ],
+                                    "guid": "Pvdg.q=j.a",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Folsäure-Reduktase-Hemmer"
+                                    ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Lefamulin",
+                                        "<div><b>Klasse:&nbsp;Pleuromutiline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Hemmung der Ausbildung der ribosomalen 50S-UE durch Bindung an die 23S-rRNA;\ndadurch wird die Peptidyltransferase-Aktivität gehemmt</div>\n<div><b>&nbsp;</b></div>\n<div><b>Wirkspektrum:</b></div>\n<div><span style=\"color: rgb(68, 114, 196);\">grampositive Erreger</span></div>\n<div><b>&nbsp;</b></div>\n<div><b>Indikation: </b></div>\n<div>Pneumonie</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>Gastrointestinale Nebenwirkungen</div>\n<div>QT-Verlängerung</div>\n<div>Hemmung von CYP-Emzymen</div>\n<div>&nbsp;</div>\n<div><b>Besonderheiten:</b></div>\n<div>Zulassung seit 2020</div>\n<div>Resistenzspektrum durch neuen Wirkmechanismus geringer</div>"
+                                    ],
+                                    "guid": "GjQm+g![u]",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": [
+                                        "Pleuromutiline"
                                     ]
                                 }
                             ]
@@ -9021,7 +9069,7 @@
             ],
             "sortf": 0,
             "tags": [
-                "Makrolide"
+                "Pleuromutiline"
             ],
             "tmpls": [
                 {
