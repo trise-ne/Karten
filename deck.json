@@ -8791,19 +8791,6 @@
                     "media_files": [],
                     "name": "6.FS",
                     "notes": []
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "cba86e32-9473-11eb-98c0-acde48001122",
-                    "deck_config_uuid": "cbafd668-9473-11eb-98c0-acde48001122",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [],
-                    "name": "Klinik",
-                    "notes": []
                 }
             ],
             "crowdanki_uuid": "cba84b0a-9473-11eb-98c0-acde48001122",
