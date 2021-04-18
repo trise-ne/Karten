@@ -4143,7 +4143,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Doxycyclin",
-                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>p.o. </i>/<i>&nbsp;i.v.</i></div>\n<div>Verteilungsraum: lipophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: Metabolisation und teils biliäre Elimination </div>\n<div>Elimination: &nbsp;teils biliär</div>\n<div>HWZ: 20h</div>\n<b><br></b>"
+                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)<br></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>p.o. </i>/<i>&nbsp;i.v.</i></div>\n<div>Verteilungsraum: lipophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: Metabolisation und teils biliäre Elimination </div>\n<div>Elimination: &nbsp;teils biliär</div>\n<div>HWZ: 20h</div>\n<b><br></b>"
                                     ],
                                     "guid": "oMk%XCV=WN",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4155,7 +4155,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Minocyclin",
-                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>p.o.</i></div>\n<div>Verteilungsraum: lipophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: Metabolisation und teils biliäre Elimination </div>\n<div>Elimination: &nbsp;teils biliär<br></div>\n<b><br></b>"
+                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)<br></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>p.o.</i></div>\n<div>Verteilungsraum: lipophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: Metabolisation und teils biliäre Elimination </div>\n<div>Elimination: &nbsp;teils biliär<br></div>\n<b><br></b>"
                                     ],
                                     "guid": "qW}z!Hm)Oh",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4167,7 +4167,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Tetracyclin",
-                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>p.o.</i></div>\n<div>Verteilungsraum: hydrophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: </div>\n<div>Elimination: &nbsp;größtenteils\nunverändert renal</div>\n<div>HWZ: 9h</div>"
+                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)<br></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>p.o.</i></div>\n<div>Verteilungsraum: hydrophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: </div>\n<div>Elimination: &nbsp;größtenteils\nunverändert renal</div>\n<div>HWZ: 9h</div>"
                                     ],
                                     "guid": "dVb,Vkg!BM",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4179,7 +4179,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Chlortetracyclin",
-                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>topisch</i></div>\n<div>Verteilungsraum: hydrophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: </div>\n<div>Elimination: &nbsp;größtenteils\nunverändert renal</div>\n<div>HWZ: 9h</div>"
+                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)</div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>topisch</i></div>\n<div>Verteilungsraum: hydrophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: </div>\n<div>Elimination: &nbsp;größtenteils\nunverändert renal</div>\n<div>HWZ: 9h</div>"
                                     ],
                                     "guid": "n9l=^VT1oM",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4191,7 +4191,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Oxytetracyclin",
-                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>topisch</i></div>\n<div>Verteilungsraum: hydrophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: </div>\n<div>Elimination: &nbsp;größtenteils\nunverändert renal</div>\n<div>HWZ: 9h</div>"
+                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)<br></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div><b>Plasmidvermittelte Resistenz </b>möglich (Efflux oder/und Schutz der ribosomalen\nBindungstelle)</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: gute orale Bioverfügbarkeit </div>\n<div>Applikationsform: <i>topisch</i></div>\n<div>Verteilungsraum: hydrophil; gute Gewebegängigkeit</div>\n<div>Metabolismus: </div>\n<div>Elimination: &nbsp;größtenteils\nunverändert renal</div>\n<div>HWZ: 9h</div>"
                                     ],
                                     "guid": "kz>)3]yZ%A",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4203,7 +4203,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Tigecyclin",
-                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b>Verbesserung</b>:\nDerivat von Minocyclin mit <b>deutlich festerer Bindung</b> am Ribosom = <b>keine\nplasmidvermittelte Resistenzen!</b></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: <b>keine</b> orale Bioverfügbarkeit </div>\n<div>Applikationsform: i.v.</div>\n<div>Verteilungsraum: gute Gewebegängigkeit</div>\n<div>Elimination: größtenteils unverändert fäkal, ca. 20 % renal</div>\nHWZ: ca. 40h<br>"
+                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)<br></div>\n<div><b>Verbesserung</b>:\nDerivat von Minocyclin mit <b>deutlich festerer Bindung</b> am Ribosom = <b>keine\nplasmidvermittelte Resistenzen!</b></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: <b>keine</b> orale Bioverfügbarkeit </div>\n<div>Applikationsform: i.v.</div>\n<div>Verteilungsraum: gute Gewebegängigkeit</div>\n<div>Elimination: größtenteils unverändert fäkal, ca. 20 % renal</div>\nHWZ: ca. 40h<br>"
                                     ],
                                     "guid": "D(ybkH(l--",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4215,7 +4215,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Eravacyclin",
-                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b>Verbesserung</b>:\nWeiterentwicklung aus Tigecyclin: <b>keine Kreuzresistenz gegenüber Betalaktam,\nAminoglykosiden, Polymyxinen und Fluorchinolonen - auch wirksam bei Tetracyclin-Effluxmechanismen!</b></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: ca. 30% orale Bioverfügbarkeit (trotzdem i.v.!)</div>\n<div>Applikationsform:<b> i.v.</b></div>\n<div>Verteilungsraum: gute Gewebegängigkeit</div>\n<div>Elimination: 15% renal</div>\nHWZ: ca. 34h<br>"
+                                        "<div><b>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)<br></div>\n<div><b>Verbesserung</b>:\nWeiterentwicklung aus Tigecyclin: <b>keine Kreuzresistenz gegenüber Betalaktam,\nAminoglykosiden, Polymyxinen und Fluorchinolonen - auch wirksam bei Tetracyclin-Effluxmechanismen!</b></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: ca. 30% orale Bioverfügbarkeit (trotzdem i.v.!)</div>\n<div>Applikationsform:<b> i.v.</b></div>\n<div>Verteilungsraum: gute Gewebegängigkeit</div>\n<div>Elimination: 15% renal</div>\nHWZ: ca. 34h<br>"
                                     ],
                                     "guid": "f9@OH.c=2{",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4227,7 +4227,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "Omadacyclin",
-                                        "<div><b><font color=\"#fc0107\">PRÄPARAT in Zulassung! Bisher keiner Daten verfügbar. <br>Ähnlichkeit zu Eravacyclin (s.u.)</font><br><br>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div>Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom</div>\n<div><b>Verbesserung</b>:\nWeiterentwicklung aus Tigecyclin: <b>keine Kreuzresistenz gegenüber Betalaktam,\nAminoglykosiden, Polymyxinen und Fluorchinolonen - auch wirksam bei Tetracyclin-Effluxmechanismen!</b></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinal Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: ca. 30% orale Bioverfügbarkeit (trotzdem i.v.!)</div>\n<div>Applikationsform:<b> i.v.</b></div>\n<div>Verteilungsraum: gute Gewebegängigkeit</div>\n<div>Elimination: 15% renal</div>\nHWZ: ca. 34h<br>"
+                                        "<div><b><font color=\"#fc0107\">PRÄPARAT in Zulassung! Bisher keiner Daten verfügbar. <br>Ähnlichkeit zu Eravacyclin (s.u.)</font><br><br>Klasse: Tetracycline</b></div>\n<div>&nbsp;</div>\n<div><b>Wirkung: bakteriostatisch</b></div>\n<div><i>Proteinbiosynthese-Hemmung</i>: Blockade von Interaktion Codon &lt;&gt; Anticodon, Ablesefehler (Blockade der Aminaacyl-tRNA-Anlagerung am Ribosom)<br></div>\n<div><b>Verbesserung</b>:\nWeiterentwicklung aus Tigecyclin: <b>keine Kreuzresistenz gegenüber Betalaktam,\nAminoglykosiden, Polymyxinen und Fluorchinolonen - auch wirksam bei Tetracyclin-Effluxmechanismen!</b></div>\n<div><b><br>\nCave</b>: <br>\nChelatbildung mit 2- und 3-wertigen Metallen mit <b>Wirkverlust</b> des\nTetracyclin!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Wirkspektrum:</b></div>\n<div>typisches Breitspektrum Antibiotikum: <br>\ngegen <span style=\"color: blue;\">grampositive&nbsp;</span>&amp;<span style=\"color: blue;\"> </span><span style=\"color: red;\">gramnegative </span>Keime</div>\n<div>Brucellen</div>\n<div>Yersinien</div>\n<div>V. cholerae</div>\n<div>Mykoplasmen</div>\n<div>Chlamydien</div>\n<div>Rickettsien</div>\n<div>teilw. Mykobakterien und Protozoen (Malaria)</div>\n<div>&nbsp;&nbsp;</div>\n<div><b>UAW:</b></div>\n<div>gastrointestinale Störungen</div>\n<div>Phototoxizität</div>\n<div>Hepatotoxizität (hydrophile Tetracycline nach Kumulation)</div>\n<div>&nbsp;</div>\n<div><b>Cave: </b>Affinität\nzu 2-/3-wertigen Metallen mit Chelatbildung = <b>Wirkverlust</b>: gegenseitige\nResorptionsbeeinflussung, <b>Störung</b> der <b>Knochen-/Zahnbildung</b> (Ca<sup>2+</sup>):\n<b>KI</b> bei Kindern!</div>\n<div>&nbsp;</div>\n<div>&nbsp;</div>\n<div><b>Pharmakokinetik:</b></div>\n<div>Säurelabilität: ca. 30% orale Bioverfügbarkeit (trotzdem i.v.!)</div>\n<div>Applikationsform:<b> i.v.</b></div>\n<div>Verteilungsraum: gute Gewebegängigkeit</div>\n<div>Elimination: 15% renal</div>\nHWZ: ca. 34h<br>"
                                     ],
                                     "guid": "r<(>w(=eDn",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
@@ -4547,26 +4547,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Ofloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "u.(]MMH>1D",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Enoxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "E}9p`&>>Gi",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Fluroxacin",
                                         "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
                                     ],
@@ -4589,16 +4569,6 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "Delafloxacin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 3</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
-                                    ],
-                                    "guid": "D<t^,8hNrm",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
                                         "Moxifloxacin",
                                         "<div><b>Klasse:&nbsp;Fluorchinolone; Klasse VI</b></div><div>&nbsp;</div><div><b>Wirkung:&nbsp;bakterizid (konzentrationabhägig)</b></div><div><div>Hemmung bakterieller Topoisomerasen II und IV; weitere Mechnismen</div><div><br></div></div><div><b>Indikationen:</b></div><div>Klasse VI: Verbesserte Aktivität gegen grampositive und atypische Errereger + Anaerobier + multiresistente Mykobakterien</div><div><br></div><div><b>KI:</b></div><div><font color=\"#fc0107\">Kinder: Hemmung des Knochenwachstums</font></div><div><br></div><div><b>UAW:</b></div><div><div>Gastrointestinale Beschwerden</div><div>ZNS: GABA/NMDA Rezeptorinteraktion</div><div>Allergien</div><div>Phototoxizität</div><div>Kardiotoxizität: QT-Zeit-Verlängerung</div><div>Chondrotoxizität/Tendopathien: Hemmung des Knochenwachsums; Achillessehnenruptur (bradytrophe Gewebe)</div><div>Selten: Störung der Hämatopoese</div><div>Chelatbildung: Affinität zu 2- und 3-wertigen Metallen</div><div>Hemmng: CYP 1A2</div></div><div><br></div><div><b>Pharmakokinetik:</b></div><div><div>Verteilungsraum: gute Gewebeverteilung (auch intrazellulär)<br></div></div><div>Orale Bioverfügbarkeit: 30 bis 95 %</div><div>Metabolismus: Hemmeung von CYP 1A2</div><div>Elimination: renal 25 – 80%<br></div><div>HWZ: 3 - 13 h&nbsp;</div>"
                                     ],
@@ -4615,86 +4585,6 @@
                                         "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 4</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
                                     ],
                                     "guid": "h3)UT>>[v1",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfadiazin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "OdslgP49;i",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfamerazin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "si%S;9$vv@",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfamethoxazol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "LpShAm.,NO",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfalen",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "h)(|MBicwo",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfadioxin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "Hfya)c#3<{",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfapyridin",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "Ab4HWJ6:rd",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfaguanol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "mtho!a(Fxt",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Sulfaethidol",
-                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Kurzzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
-                                    ],
-                                    "guid": "oo4tK3~^z)",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": []
                                 },
@@ -4993,26 +4883,6 @@
                                         "<b>Antituberkulotika 2. Wahl</b>"
                                     ],
                                     "guid": "B|p~h}qLJ=",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Terizidon",
-                                        "<b>Antituberkulotika 2. Wahl</b>"
-                                    ],
-                                    "guid": "Iy%Hf5BJqq",
-                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "p-Aminosalicylsäure",
-                                        "<b>Antituberkulotika 2. Wahl</b>"
-                                    ],
-                                    "guid": "H5I,zj|T(L",
                                     "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
                                     "tags": []
                                 },
@@ -5709,6 +5579,136 @@
                                     "tags": [
                                         "Sulfonamide"
                                     ]
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Ofloxacin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                    ],
+                                    "guid": "u.(]MMH>1D",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Enoxacin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 2</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                    ],
+                                    "guid": "E}9p`&>>Gi",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Delafloxacin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Chinolone (Gyrasehemmer) -&gt; Fluorchinolone (2.Gen) -&gt; Gr. 3</b><div>bakterizid<b><br></b><div>DNA-Gyrase (entspricht Topoisomerase II) -&gt; Hemmung der DNA-Replikation</div></div>"
+                                    ],
+                                    "guid": "D<t^,8hNrm",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfadiazin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "OdslgP49;i",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfamerazin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "si%S;9$vv@",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfamethoxazol",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Mittelzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "LpShAm.,NO",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfalen",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "h)(|MBicwo",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfadioxin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Langzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "Hfya)c#3<{",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfapyridin",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "Ab4HWJ6:rd",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfaguanol",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; schwerresorbierbare<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "mtho!a(Fxt",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Sulfaethidol",
+                                        "<b>Antibiotika -&gt; Nucleinsäuresyntheseinhib. -&gt; Sulfonamide (Folsäureantagonisten) -&gt; Kurzzeitsulfonamid<br></b><div>Hemmung d. Dihydropteridinsäure-Synthetase -&gt; Synthese der Folsäurevorstufen gehemmt</div>"
+                                    ],
+                                    "guid": "oo4tK3~^z)",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Terizidon",
+                                        "<b>Antituberkulotika 2. Wahl</b>"
+                                    ],
+                                    "guid": "Iy%Hf5BJqq",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "p-Aminosalicylsäure",
+                                        "<b>Antituberkulotika 2. Wahl</b>"
+                                    ],
+                                    "guid": "H5I,zj|T(L",
+                                    "note_model_uuid": "4d66e488-99e4-11eb-b940-784f4370a0e0",
+                                    "tags": []
                                 },
                                 {
                                     "__type__": "Note",
